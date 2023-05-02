@@ -1,4 +1,4 @@
-baseurl = "https://elodogfight.cellules-rapaces.fr/"
+baseurl = "https://dagger-one.cellules-rapaces.fr/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

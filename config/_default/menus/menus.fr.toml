@@ -17,13 +17,6 @@
   parent = "resultats"
 
 [[main]]
-  name = "Classement F-15C"
-  weight = 40
-  pre = "f-15-h"
-  url = "/resultats/classements/classement_f15c"
-  parent = "resultats"
-
-[[main]]
   name = "Classement F-16C Block50"
   weight = 50
   pre = "f-16-h"
@@ -42,83 +35,6 @@
   weight = 70
   pre = "jf-17-h"
   url = "/resultats/classements/classement_jf17"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement M-2000C"
-  weight = 80
-  pre = "M2000-h"
-  url = "/resultats/classements/classement_m2000c"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement Mirage F1-CE"
-  weight = 90
-  pre = "mf1-h"
-  url = "/resultats/classements/classement_mf1ce"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement MiG-21Bis"
-  weight = 100
-  pre = "mig21-h"
-  url = "/resultats/classements/classement_mig21bis"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement MiG-29S"
-  weight = 110
-  pre = "mig29-h"
-  url = "/resultats/classements/classement_mig29s"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement Su-27"
-  weight = 120
-  pre = "su27-h"
-  url = "/resultats/classements/classement_su27"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement Su-33"
-  weight = 130
-  pre = "su33-h"
-  url = "/resultats/classements/classement_su33"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement F-86F"
-  weight = 140
-  pre = "f-86-h"
-  url = "/resultats/classements/classement_f86f"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement AJS-37"
-  weight = 150
-  pre = "ajs37-h"
-  url = "/resultats/classements/classement_ajs37"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement F-5E"
-  weight = 160
-  pre = "f-5-h"
-  url = "/resultats/classements/classement_f5e"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement MiG-15Bis"
-  weight = 170
-  pre = "mig15-h"
-  url = "/resultats/classements/classement_mig15bis"
-  parent = "resultats"
-
-[[main]]
-  name = "Classement MiG-19P"
-  weight = 180
-  pre = "mig19-h"
-  url = "/resultats/classements/classement_mig19p"
   parent = "resultats"
 
 [[main]]
@@ -148,6 +64,11 @@
   name = "Tanker Party"
   url = "https://tankerparty.cellules-rapaces.fr"
   weight = 20
+
+[[footer2]]
+  name = "Dagger One"
+  url = "https://dagger-one.cellules-rapaces.fr"
+  weight = 30
 
 [[footer3]]
   name = "Cellules Rapaces"

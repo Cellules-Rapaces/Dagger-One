@@ -1,6 +1,6 @@
 ---
-title : "Duels au canon sur DCS World"
-description: "Défi combat canon 1v1 sur DCS World."
+title : "Course au sommet façon Top Gun Maverick"
+description: "Défi Dagger One sur DCS World."
 lead: "Fight's On !"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
@@ -11,60 +11,48 @@ images: []
 <!-- Flag icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
 
-<section class="section container-fluid pt-3 pb-3">
-  <div class="row justify-content-center">
-    <div class="col-lg-9 col-xl-8 text-center">
-    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> Join the Fight <img src="../images/team_Cellules-Rapaces.png" alt="BFR" width="30" height="30"></a>
-    </div>
-    <div class="col-lg-9 col-xl-8 text-center">
-    <a class="btn btn-primary btn-lg mb-2" href="https://discord.com/channels/722195463817920623/801131724775227487" role="button"><i class="fa-brands fa-discord fa-xl"></i> Discord BFR <img src="../images/Logo_BFR.gif" alt="BFR" width="30" height="30"></a>
-    </div>
-  </div>
-  <div class="row justify-content-center">
-    <p>Pour trouver des compétiteurs rejoignez les Discords Cellules Rapaces et celui du <a href="https://bullseye-francophone.fr">Bullseye Francophone</a></p>
-  </div>
-</section>
-
-<img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
-
-
-<h2><span class="stats_fights badge bg-primary">💥Combats : 0</span> <span class="stats_fighters badge bg-secondary"><img src="../images/fighter_pilot_30.png" height="80%">Fighters : 0</span></h2>
-
 <section class="section section-sm">
+
 <!-- Podium -->
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 pt-4 g-3">
-  <!-- Podium M2000C -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_M2000C.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_M2000" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_m2000c"><i class="fas fa-flag-checkered"></i> Classement M-2000C <span class="icon-M2000-h"></span></a>
-      </div>
-    </div>
-  </div>
-
   <!-- Podium F-18 -->
   <div class="col">
     <div class="card shadow-sm">
-      <img src="../images/Trophy_F18.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_FA18C" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <img src="/images/Trophy_F18.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur F/A-18C par : </p>
+        <img class="FastestPlayerF18_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayerF18 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Fahrenheit</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-f-18-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTimeF18 badge bg-warning text-dark">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_fa18c"><i class="fas fa-flag-checkered"></i> Classement F/A-18C <span class="icon-f-18-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_fa18c"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-18-h"></span></a>
       </div>
     </div>
   </div>
 
-  <!-- Podium MF1CE -->
+  <!-- Podium F-14 -->
   <div class="col">
     <div class="card shadow-sm">
-      <img src="../images/Trophy_MF1CE.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_MF1CE" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <img src="/images/Trophy_F14.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur F-14B par : </p>
+        <img class="FastestPlayerF14_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayerF14 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-f-14-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTimeF14 badge bg-warning text-dark">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_mf1ce"><i class="fas fa-flag-checkered"></i> Classement Mirage F1CE <span class="icon-mf1-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-14-h"></span></a>
       </div>
     </div>
   </div>
@@ -72,95 +60,20 @@ images: []
   <!-- Podium F-16 -->
   <div class="col">
     <div class="card shadow-sm">
-      <img src="../images/Trophy_F16.png" class="bd-placeholder-img card-img-top" height="100%">
+      <img src="/images/Trophy_F16.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur F-16C par : </p>
+        <img class="FastestPlayerF16_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayerF16 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Pitbull</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-f-16-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTimeF16 badge bg-warning text-dark">-- min --.---</span></h4>
+        </div>
+      </div>
       <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f16c50"><i class="fas fa-flag-checkered"></i> Classement F-16C <span class="icon-f-16-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium F-14B -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_F14.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F14B" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> Classement F-14B <span class="icon-f-14-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium MiG-29S -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_MiG29.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_MiG29S" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_mig29s"><i class="fas fa-flag-checkered"></i> Classement MiG-29S <span class="icon-mig29-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium Su-27 -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_Su27.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_Su27" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_su27"><i class="fas fa-flag-checkered"></i> Classement Su-27 <span class="icon-su27-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium Su-33 -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_Su33.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_Su33" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_su33"><i class="fas fa-flag-checkered"></i> Classement Su-33 <span class="icon-su33-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium F-15C -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_F15.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F15C" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f15c"><i class="fas fa-flag-checkered"></i> Classement F-15C <span class="icon-f-15-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium MiG-21bis -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_MiG21.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_MiG21bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_mig21bis"><i class="fas fa-flag-checkered"></i> Classement MiG-21bis <span class="icon-mig21-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium MiG-15bis -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_MiG15.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_MiG15bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_mig15bis"><i class="fas fa-flag-checkered"></i> Classement MiG-15bis <span class="icon-mig15-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_f16c50"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-16-h"></span></a>
       </div>
     </div>
   </div>
@@ -168,62 +81,25 @@ images: []
   <!-- Podium JF-17 -->
   <div class="col">
     <div class="card shadow-sm">
-      <img src="../images/Trophy_JF17.png" class="bd-placeholder-img card-img-top" height="100%">
+      <img src="/images/Trophy_JF17.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur JF-17 par : </p>
+        <img class="FastestPlayerJF17_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayerJF17 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-jf-17-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTimeJF17 badge bg-warning text-dark">-- min --.---</span></h4>
+        </div>
+      </div>
       <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_jf17"><i class="fas fa-flag-checkered"></i> Classement JF-17 <span class="icon-jf-17-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_jf17"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-jf-17-h"></span></a>
       </div>
     </div>
   </div>
 
-  <!-- Podium F-5E -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_F5E.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F5E" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f5e"><i class="fas fa-flag-checkered"></i> Classement F-5E <span class="icon-f-5-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium AJS37 -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_AJS37.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_AJS37" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_ajs37"><i class="fas fa-flag-checkered"></i> Classement AJS-37 <span class="icon-ajs37-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium MiG-19P -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_MiG19.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_MiG19P" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_mig19p"><i class="fas fa-flag-checkered"></i> Classement MiG-19P <span class="icon-mig19-h"></span></a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Podium F-86F -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_F86.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F86F" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f86f"><i class="fas fa-flag-checkered"></i> Classement F-86F <span class="icon-f-86-h"></span></a>
-      </div>
-    </div>
-  </div>
+</div>
 
 </div>
 
@@ -233,5 +109,5 @@ images: []
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 <!-- Chargement des données des podiums -->
 <script src="../js/podiums.js"></script>
-<!-- Chargement des données stats globales -->
-<script src="../js/stats_globales.js"></script>
+<!-- Chargement des données des classements -->
+<script src="../js/classements.js"></script>

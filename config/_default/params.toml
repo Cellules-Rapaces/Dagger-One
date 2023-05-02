@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "ELO Dogfight Challenge"
+title = "Dagger One Challenge"
 titleSeparator = "-"
-titleAddition = "1v1 guns only DCS World competition"
-description = "1v1 guns only DCS World competition."
+titleAddition = "Solo Race and Bombing DCS World competition"
+description = "Solo Race and Bombing, Top Gun Maverick like, DCS World competition."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -12,8 +12,8 @@ description = "1v1 guns only DCS World competition."
 ## Open Graph
 images = ["cellules-rapaces_og.png"]
 ogLocale = "fr_FR"
-domainTLD = "elodogfight.cellules-rapaces.fr"
-titleHome = "ELO Dogfight"
+domainTLD = "dagger-one.cellules-rapaces.fr"
+titleHome = "Dagger One"
 
 ## Twitter Cards
 twitterSite = "@CellulesRapaces"

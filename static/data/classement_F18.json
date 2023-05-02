@@ -1,0 +1,32 @@
+[
+	{
+		"Rang": 1,
+		"Nom du joueur": "Clara 1-1 | Psycho",
+		"Temps": "04 min 15.160",
+		"Temps intermédiaire1 (s)": "27.01",
+		"Temps intermédiaire2 (s)": "99.2",
+		"Temps intermédiaire3 (s)": "139.44",
+		"Temps intermédiaire4 (s)": "197.3",
+		"Temps intermédiaire5 (s)": "224.98"
+	},
+	{
+		"Rang": 2,
+		"Nom du joueur": "OuiOui 1-1 | Willy",
+		"Temps": "04 min 25.280",
+		"Temps intermédiaire1 (s)": "26.1",
+		"Temps intermédiaire2 (s)": "97.73",
+		"Temps intermédiaire3 (s)": "139.64",
+		"Temps intermédiaire4 (s)": "198.16",
+		"Temps intermédiaire5 (s)": "227.03"
+	},
+	{
+		"Rang": 3,
+		"Nom du joueur": "Mr.Yo",
+		"Temps": "04 min 47.740",
+		"Temps intermédiaire1 (s)": "28.93",
+		"Temps intermédiaire2 (s)": "112.01",
+		"Temps intermédiaire3 (s)": "157.58",
+		"Temps intermédiaire4 (s)": "226.08",
+		"Temps intermédiaire5 (s)": "253.65"
+	}
+]

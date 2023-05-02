@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elodogfight.cellules-rapaces.fr/sitemap.xml
+Sitemap: https://dagger-one.cellules-rapaces.fr/sitemap.xml
