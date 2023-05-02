@@ -9,7 +9,7 @@ images: []
 
 Présentation du défi Dagger One, par Coubystark.
 
-{{< alert icon="⚠️" text="Attention, pour le moment le défi est proposé en version <strong>**"BETA"**</strong>. Certains aspects et équilibres sont encore en cours de définition. Il en résulte que les chronos actuels ne seront pas conservés. D'avance merci à tous les beta testeurs qui nous aideront à rendre ce challenge captivant !" />}}
+{{< alert icon="⚠️" text="Attention, pour le moment le défi est proposé en version <strong>**BETA**</strong>. Certains aspects et équilibres sont encore en cours de définition. Il en résulte que les chronos actuels ne seront pas conservés. D'avance merci à tous les beta testeurs qui nous aideront à rendre ce challenge captivant !" />}}
 
 ## En bref
 
