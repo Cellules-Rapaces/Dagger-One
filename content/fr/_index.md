@@ -25,7 +25,7 @@ images: []
         <h3 class="FastestPlayerF18 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Fahrenheit</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-18-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeF18 badge bg-warning text-dark">-- min --.---</span></h4>
+          <h4><span class="FastestTimeF18 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
@@ -46,7 +46,7 @@ images: []
         <h3 class="FastestPlayerF14 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-14-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeF14 badge bg-warning text-dark">-- min --.---</span></h4>
+          <h4><span class="FastestTimeF14 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
@@ -67,7 +67,7 @@ images: []
         <h3 class="FastestPlayerF16 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Pitbull</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-16-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeF16 badge bg-warning text-dark">-- min --.---</span></h4>
+          <h4><span class="FastestTimeF16 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
@@ -88,7 +88,7 @@ images: []
         <h3 class="FastestPlayerJF17 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-jf-17-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeJF17 badge bg-warning text-dark">-- min --.---</span></h4>
+          <h4><span class="FastestTimeJF17 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
