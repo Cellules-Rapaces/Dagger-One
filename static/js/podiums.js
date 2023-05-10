@@ -21,7 +21,7 @@ $.ajax({
         success: function(data)
         {
           if (data != "") {
-            $('.FastestTimeF18').replaceWith('<h4><span class="FastestTimeF18 badge bg-warning text-dark">' + data + '</span></h4>');
+            $('.FastestTimeF18').replaceWith('<h4><span class="FastestTimeF18 badge bg-primary">' + data + '</span></h4>');
           }
         }
         });
@@ -47,7 +47,7 @@ $.ajax({
         success: function(data)
         {
           if (data != "") {
-            $('.FastestTimeF14').replaceWith('<h4><span class="FastestTimeF14 badge bg-warning text-dark">' + data + '</span></h4>');
+            $('.FastestTimeF14').replaceWith('<h4><span class="FastestTimeF14 badge bg-primary">' + data + '</span></h4>');
           }
         }
         });
@@ -73,7 +73,7 @@ $.ajax({
         success: function(data)
         {
           if (data != "") {
-            $('.FastestTimeF16').replaceWith('<h4><span class="FastestTimeF16 badge bg-warning text-dark">' + data + '</span></h4>');
+            $('.FastestTimeF16').replaceWith('<h4><span class="FastestTimeF16 badge bg-primary">' + data + '</span></h4>');
           }
         }
         });
@@ -99,7 +99,7 @@ $.ajax({
         success: function(data)
         {
           if (data != "") {
-            $('.FastestTimeJF17').replaceWith('<h4><span class="FastestTimeJF17 badge bg-warning text-dark">' + data + '</span></h4>');
+            $('.FastestTimeJF17').replaceWith('<h4><span class="FastestTimeJF17 badge bg-primary">' + data + '</span></h4>');
           }
         }
         });
