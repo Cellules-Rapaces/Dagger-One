@@ -11,6 +11,16 @@
 	},
 	{
 		"Rang": 2,
+		"Nom du joueur": "CoubyStark",
+		"Temps": "03 min 53.580",
+		"Temps intermédiaire1 (s)": "28.23",
+		"Temps intermédiaire2 (s)": "97.13",
+		"Temps intermédiaire3 (s)": "129.82",
+		"Temps intermédiaire4 (s)": "178.36",
+		"Temps intermédiaire5 (s)": "202.21"
+	},
+	{
+		"Rang": 3,
 		"Nom du joueur": "[RAA] CoubyStark",
 		"Temps": "04 min 03.290",
 		"Temps intermédiaire1 (s)": "26.43",
@@ -20,7 +30,7 @@
 		"Temps intermédiaire5 (s)": "210.54"
 	},
 	{
-		"Rang": 3,
+		"Rang": 4,
 		"Nom du joueur": "Reaper 1-6 | Pouga",
 		"Temps": "04 min 27.560",
 		"Temps intermédiaire1 (s)": "27.66",
