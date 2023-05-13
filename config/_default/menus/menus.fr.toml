@@ -38,15 +38,16 @@
   parent = "resultats"
 
 [[main]]
-  name = "Règles"
-  weight = 200
-  url = "/regles/"
+  name = "Tous les chronos"
+  weight = 80
+  pre = "chrono"
+  url = "/resultats/classements/tous_les_chronos"
+  parent = "resultats"
 
 [[main]]
-  name = "Questions/Réponses"
-  weight = 210
-  url = "/questions/"
-
+  name = "Tacviews"
+  weight = 200
+  url = "/tacviews/"
 
 [[resultats]]
   name = "Classements"
