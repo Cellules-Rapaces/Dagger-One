@@ -45,7 +45,7 @@ Un bonus de zz secondes est accordé en cas de destruction de la cible se trouva
 
 Des systèmes et unités de défense sol-air jalonnent le parcours pour pimenter celui-ci.
 
-![Image d'unité sol-air](images/DO_menaces-sol-air.jpg)
+![Image d'unité sol-air](images/DO_menaces-sol-air.png)
 
 L'utilisation de SRS est fortement recommandée pour une bonne immersion dans le défi, des messages audios sont diffusés sur la radio pendant le parcours.
 
