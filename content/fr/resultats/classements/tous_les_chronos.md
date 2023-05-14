@@ -26,6 +26,10 @@ icon: "chrono"
 </style>
 
 <div class="container">
+    <div class="form-group">
+        <label for="filter">Recherche:</label>
+        <input type="text" class="form-control" id="filter">
+    </div>
     <div class="table-responsive">
         <table class="table table-striped" id="dataTable"></table>
     </div>
@@ -59,6 +63,13 @@ icon: "chrono"
                 $('#dataTable').append(html);
                 createPagination(csvData.length);
             }
+        });
+
+        $('#filter').on('keyup', function() {
+            let value = $(this).val().toLowerCase();
+            $('#dataTable tbody tr').filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
         });
     });
 
