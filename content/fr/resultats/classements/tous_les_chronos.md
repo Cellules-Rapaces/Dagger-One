@@ -17,59 +17,65 @@ icon: "chrono"
 
 <!-- Flag icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
-<!-- Styles jQuery DataTables -->
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
-<!-- jQuery dataTables 1.10.24 -->
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
+<style>
+    .pagination {
+        margin-top: 10px;
+    }
+</style>
 
-<div id="chronos" class="pb-4">
-  <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
-  <script type="text/javascript">
-    d3.csv("data/resultat.csv", function(error, data) {
-      if (error) throw error;
-
-      var sortAscending = true;
-      var table = d3.select('#chronos').append('table').attr('class', 'display').attr('id', 'tchronos');
-      // var titles = d3.keys(data[0]).filter(word => word != "Temps (s)");
-      var titles = d3.keys(data[0]).slice(0, 5).concat(d3.keys(data[0]).slice(7, 8));
-      var headers = table.append('thead').append('tr')
-                       .selectAll('th')
-                       .data(titles).enter()
-                       .append('th')
-                       .text(function (d) {
-                          return d;
-                        })
-                       .attr('scope', 'col')
-
-
-      var rows = table.append('tbody').selectAll('tr')
-                   .data(data).enter()
-                   .append('tr');
-      rows.selectAll('td')
-        .data(function (d) {
-             return titles.map(function (k) {
-             return { 'value': d[k], 'name': k};
-          });
-        }).enter()
-        .append('td')
-        .attr('data-th', function (d) {
-          return d.name;
-        })
-        .text(function (d) {
-          return d.value;
-        });
-    });
-  </script>
+<div class="container">
+    <div class="table-responsive">
+        <table class="table table-striped" id="dataTable"></table>
+    </div>
+    <div class="text-center">
+        <div class="pagination"></div>
+    </div>
 </div>
 
-<!-- init jQuery dataTable -->
 <script>
-  $(window).on( "load", function () {
-    $('#tchronos').DataTable( {
-      "pageLength": 30
-    } );
-  } );
+    const ITEMS_PER_PAGE = 10;
+
+    $(document).ready(function() {
+        $.ajax({
+            url: "/data/resultat.csv",
+            dataType: "text",
+            success: function(data) {
+                var csvData = $.csv.toArrays(data);
+                var html = '<thead><tr>';
+                for (let j = 0; j < csvData[0].length; j++) {
+                    html += '<th>' + csvData[0][j] + '</th>';
+                }
+                html += '</tr></thead><tbody>';
+                for (let i = 1; i < csvData.length; i++) {
+                    html += '<tr>';
+                    for (let j = 0; j < csvData[i].length; j++) {
+                        html += '<td>' + csvData[i][j] + '</td>';
+                    }
+                    html += '</tr>';
+                }
+                html += '</tbody>';
+                $('#dataTable').append(html);
+                createPagination(csvData.length);
+            }
+        });
+    });
+
+    function createPagination(rows) {
+        let pages = Math.ceil(rows / ITEMS_PER_PAGE);
+        for (let i = 1; i <= pages; i++) {
+            $('.pagination').append('<span class="page-num">' + i + '</span>');
+        }
+        $('.page-num').on('click', function() {
+            let pageNum = $(this).text();
+            let start = (pageNum - 1) * ITEMS_PER_PAGE;
+            let end = start + ITEMS_PER_PAGE;
+            $('tbody tr').hide();
+            $('tbody tr').slice(start, end).show();
+        });
+        $('.page-num').first().click();
+    }
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
