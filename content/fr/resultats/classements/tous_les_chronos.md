@@ -1,7 +1,7 @@
 ---
 title: "Tous les chronos"
 description: ""
-lead: "Tous les chronos"
+lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -23,7 +23,6 @@ icon: "chrono"
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 
 <div id="chronos" class="pb-4">
-  <h2 class="py-2">Tous les temps</h2>
   <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
   <script type="text/javascript">
     d3.csv("data/resultat.csv", function(error, data) {
@@ -31,7 +30,7 @@ icon: "chrono"
 
       var sortAscending = true;
       var table = d3.select('#chronos').append('table').attr('class', 'display').attr('id', 'tchronos');
-      // var titles = d3.keys(data[0]).filter(word => word != "TotalTime");
+      // var titles = d3.keys(data[0]).filter(word => word != "Temps (s)");
       var titles = d3.keys(data[0]).slice(0, 5).concat(d3.keys(data[0]).slice(7, 8));
       var headers = table.append('thead').append('tr')
                        .selectAll('th')
