@@ -16,9 +16,10 @@ icon: "chrono"
 ---
 
 <!-- Flag icons -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
 <style>
     .pagination {
         margin-top: 10px;
@@ -31,7 +32,7 @@ icon: "chrono"
         <input type="text" class="form-control" id="filter">
     </div>
     <div class="table-responsive">
-        <table class="table table-striped" id="dataTable"></table>
+        <table class="table table-striped tablesorter" id="dataTable"></table>
     </div>
     <div class="text-center">
         <div class="pagination"></div>
@@ -62,6 +63,7 @@ icon: "chrono"
                 html += '</tbody>';
                 $('#dataTable').append(html);
                 createPagination(csvData.length);
+                $("#dataTable").tablesorter();
             }
         });
 
@@ -84,9 +86,9 @@ icon: "chrono"
             let end = start + ITEMS_PER_PAGE;
             $('tbody tr').hide();
             $('tbody tr').slice(start, end).show();
-        });
-        $('.page-num').first().click();
-    }
-</script>
+          });
+          $('.page-num').first().click();
+        }
+    </script>
 
 <script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
