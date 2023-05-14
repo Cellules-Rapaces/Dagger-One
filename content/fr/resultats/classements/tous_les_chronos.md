@@ -16,6 +16,7 @@ icon: "chrono"
 ---
 
 <!-- Flag icons -->
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
@@ -42,6 +43,17 @@ icon: "chrono"
 <script>
     const ITEMS_PER_PAGE = 10;
 
+    $.tablesorter.addParser({
+        id: 'customDate',
+        is: function(s) {
+            return false;
+        },
+        format: function(s) {
+            return new Date(s).getTime();
+        },
+        type: 'numeric'
+    });
+
     $(document).ready(function() {
         $.ajax({
             url: "/data/resultat.csv",
@@ -63,7 +75,11 @@ icon: "chrono"
                 html += '</tbody>';
                 $('#dataTable').append(html);
                 createPagination(csvData.length);
-                $("#dataTable").tablesorter();
+                $("#dataTable").tablesorter({
+                    headers: {
+                        0: { sorter: 'customDate' }
+                    }
+                });
             }
         });
 
@@ -86,9 +102,9 @@ icon: "chrono"
             let end = start + ITEMS_PER_PAGE;
             $('tbody tr').hide();
             $('tbody tr').slice(start, end).show();
-          });
-          $('.page-num').first().click();
-        }
-    </script>
+        });
+        $('.page-num').first().click();
+    }
+</script>
 
 <script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
