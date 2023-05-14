@@ -76,8 +76,10 @@ icon: "chrono"
     function renderTable(data, pageNum) {
         let html = '<thead><tr>';
         for (let j = 0; j < data[0].length; j++) {
-            html += '<th>' + data[0][j];
-            html += '<button class="sort-btn" data-column="' + j + '">Sort</button>';
+            html += '<th class="sort-indicator" data-column="' + j + '">' + data[0][j];
+            if (j === sortedBy) {
+                html += sortDirection === 1 ? '<span class="sort-asc"></span>' : '<span class="sort-desc"></span>';
+            }
             html += '</th>';
         }
         html += '</tr></thead><tbody>';
@@ -95,7 +97,7 @@ icon: "chrono"
         $('#dataTable').html(html);
         createPagination(filteredData.length, pageNum);
 
-        $('.sort-btn').on('click', function() {
+        $('.sort-indicator').on('click', function() {
             let column = $(this).data('column');
             if (sortedBy === column) {
                 sortDirection = -sortDirection;
