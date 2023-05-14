@@ -17,6 +17,10 @@ icon: "chrono"
 
 <!-- Flag icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
+<!-- Styles jQuery DataTables -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+<!-- jQuery dataTables 1.10.24 -->
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
 
 <div id="chronos" class="pb-4">
   <h2 class="py-2">Tous les temps</h2>
@@ -67,10 +71,6 @@ icon: "chrono"
     } );
   } );
 </script>
-<!-- Styles jQuery DataTables -->
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
-<!-- jQuery dataTables 1.10.24 -->
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
