@@ -20,10 +20,18 @@ icon: "chrono"
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
 <style>
     .pagination {
         margin-top: 10px;
+    }
+    .sort-indicator {
+        cursor: pointer;
+    }
+    .sort-asc::before {
+        content: " \u25B2";
+    }
+    .sort-desc::before {
+        content: " \u25BC";
     }
 </style>
 
@@ -33,7 +41,7 @@ icon: "chrono"
         <input type="text" class="form-control" id="filter">
     </div>
     <div class="table-responsive">
-        <table class="table table-striped tablesorter" id="dataTable"></table>
+        <table class="table table-striped" id="dataTable"></table>
     </div>
     <div class="text-center">
         <div class="pagination"></div>
@@ -42,68 +50,94 @@ icon: "chrono"
 
 <script>
     const ITEMS_PER_PAGE = 10;
-
-    $.tablesorter.addParser({
-        id: 'customDate',
-        is: function(s) {
-            return false;
-        },
-        format: function(s) {
-            return new Date(s).getTime();
-        },
-        type: 'numeric'
-    });
+    let csvData = [];
+    let filteredData = [];
+    let sortedBy = null;
+    let sortDirection = 1;
 
     $(document).ready(function() {
         $.ajax({
             url: "/data/resultat.csv",
             dataType: "text",
             success: function(data) {
-                var csvData = $.csv.toArrays(data);
-                var html = '<thead><tr>';
-                for (let j = 0; j < csvData[0].length; j++) {
-                    html += '<th>' + csvData[0][j] + '</th>';
-                }
-                html += '</tr></thead><tbody>';
-                for (let i = 1; i < csvData.length; i++) {
-                    html += '<tr>';
-                    for (let j = 0; j < csvData[i].length; j++) {
-                        html += '<td>' + csvData[i][j] + '</td>';
-                    }
-                    html += '</tr>';
-                }
-                html += '</tbody>';
-                $('#dataTable').append(html);
-                createPagination(csvData.length);
-                $("#dataTable").tablesorter({
-                    headers: {
-                        0: { sorter: 'customDate' }
-                    }
-                });
+                csvData = $.csv.toArrays(data);
+                filteredData = csvData.slice(1); // copy all except headers
+                renderTable(csvData, 1);
             }
         });
 
         $('#filter').on('keyup', function() {
             let value = $(this).val().toLowerCase();
-            $('#dataTable tbody tr').filter(function() {
-                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-            });
+            filteredData = csvData.slice(1).filter(row => row.join(' ').toLowerCase().includes(value));
+            renderTable(csvData, 1);
         });
     });
 
-    function createPagination(rows) {
-        let pages = Math.ceil(rows / ITEMS_PER_PAGE);
-        for (let i = 1; i <= pages; i++) {
-            $('.pagination').append('<span class="page-num">' + i + '</span>');
+    function renderTable(data, pageNum) {
+        let html = '<thead><tr>';
+        for (let j = 0; j < data[0].length; j++) {
+            html += '<th>' + data[0][j];
+            html += '<button class="sort-btn" data-column="' + j + '">Sort</button>';
+            html += '</th>';
         }
+        html += '</tr></thead><tbody>';
+        let start = (pageNum - 1) * ITEMS_PER_PAGE;
+        let end = start + ITEMS_PER_PAGE;
+        for (let i = start; i < end && i < filteredData.length; i++) {
+            html += '<tr>';
+            for (let j = 0; j < filteredData[i].length; j++) {
+                html += '<td>' + filteredData[i][j] + '</td>';
+            }
+            html += '</tr>';
+        }
+        html += '</tbody>';
+
+        $('#dataTable').html(html);
+        createPagination(filteredData.length, pageNum);
+
+        $('.sort-btn').on('click', function() {
+            let column = $(this).data('column');
+            if (sortedBy === column) {
+                sortDirection = -sortDirection;
+            } else {
+                sortedBy = column;
+                sortDirection = 1;
+            }
+            filteredData.sort((a, b) => {
+                let valA = a[column];
+                let valB = b[column];
+                if (!isNaN(valA) && !isNaN(valB)) {
+                    valA = Number(valA);
+                    valB = Number(valB);
+                }
+                if (valA < valB) {
+                    return -sortDirection;
+                }
+                if (valA > valB) {
+                    return sortDirection;
+                }
+                return 0;
+            });
+            renderTable(csvData, 1);
+        });
+    }
+
+    function createPagination(rows, currentPage) {
+        let pages = Math.ceil(rows / ITEMS_PER_PAGE);
+        let html = '';
+        for (let i = 1; i <= pages; i++) {
+            if (i === currentPage) {
+                html += '<span class="page-num active">' + i + '</span>';
+            } else {
+                html += '<span class="page-num">' + i + '</span>';
+            }
+        }
+        $('.pagination').html(html);
+
         $('.page-num').on('click', function() {
             let pageNum = $(this).text();
-            let start = (pageNum - 1) * ITEMS_PER_PAGE;
-            let end = start + ITEMS_PER_PAGE;
-            $('tbody tr').hide();
-            $('tbody tr').slice(start, end).show();
+            renderTable(csvData, Number(pageNum));
         });
-        $('.page-num').first().click();
     }
 </script>
 
