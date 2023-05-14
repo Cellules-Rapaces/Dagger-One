@@ -27,11 +27,11 @@ icon: "chrono"
     .sort-indicator {
         cursor: pointer;
     }
-    .sort-asc::before {
-        content: " \u25B2";
+    .sort-asc, .sort-desc {
+        display: none;
     }
-    .sort-desc::before {
-        content: " \u25BC";
+    .sort-asc.active, .sort-desc.active {
+        display: inline;
     }
 </style>
 
@@ -77,9 +77,8 @@ icon: "chrono"
         let html = '<thead><tr>';
         for (let j = 0; j < data[0].length; j++) {
             html += '<th class="sort-indicator" data-column="' + j + '">' + data[0][j];
-            if (j === sortedBy) {
-                html += sortDirection === 1 ? '<span class="sort-asc"></span>' : '<span class="sort-desc"></span>';
-            }
+            html += '<span class="sort-asc' + (j === sortedBy && sortDirection === 1 ? ' active' : '') + '">&#9650;</span>';
+            html += '<span class="sort-desc' + (j === sortedBy && sortDirection === -1 ? ' active' : '') + '">&#9660;</span>';
             html += '</th>';
         }
         html += '</tr></thead><tbody>';
