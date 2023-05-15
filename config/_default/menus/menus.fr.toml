@@ -1,10 +1,15 @@
 [[main]]
-  name = "Présentation"
+  name = "🏆 Podiums"
+  url = "/"
+  weight = 5
+
+[[main]]
+  name = "📜 Présentation"
   url = "/presentation/"
   weight = 10
 
 [[main]]
-  name = "Résultats"
+  name = "🏁 Résultats"
   url = "/resultats/classements/"
   identifier = "resultats"
   weight = 25
@@ -45,7 +50,7 @@
   parent = "resultats"
 
 [[main]]
-  name = "Tacviews"
+  name = "📹 Tacviews"
   weight = 200
   url = "/tacviews/"
 

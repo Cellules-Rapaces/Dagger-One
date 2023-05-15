@@ -20,7 +20,7 @@ icon: ""
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
-<script src="https://cdnjs.com/libraries/moment.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
 
 <style>
     .pagination {
@@ -104,7 +104,11 @@ icon: ""
         for (let i = start; i < end && i < filteredData.length; i++) {
             html += '<tr>';
             for (let j = 0; j < filteredData[i].length; j++) {
-                html += '<td>' + filteredData[i][j] + '</td>';
+                let cellValue = filteredData[i][j];
+                if (j === 0) {  // Si c'est la première colonne (timestamp)
+                    cellValue = moment(cellValue).format('DD/MM/YYYY HH:mm:ss');
+                }
+                html += '<td>' + cellValue + '</td>';
             }
             html += '</tr>';
         }
