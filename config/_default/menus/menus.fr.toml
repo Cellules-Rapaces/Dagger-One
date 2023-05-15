@@ -38,9 +38,9 @@
   parent = "resultats"
 
 [[main]]
-  name = "Tous les chronos"
+  name = "⏱️ Tous les chronos"
   weight = 80
-  pre = "chrono"
+  pre = ""
   url = "/resultats/classements/tous_les_chronos"
   parent = "resultats"
 

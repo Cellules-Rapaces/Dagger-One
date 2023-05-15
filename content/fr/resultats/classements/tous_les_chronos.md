@@ -1,5 +1,5 @@
 ---
-title: "Tous les chronos"
+title: "⏱️ Tous les chronos"
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -10,9 +10,9 @@ type: docs
 menu:
   resultats:
     parent: "classements"
-weight: 50
+weight: 80
 toc: true
-icon: "chrono"
+icon: ""
 ---
 
 <!-- Flag icons -->
@@ -37,7 +37,7 @@ icon: "chrono"
 
 <div class="container">
     <div class="form-group">
-        <label for="filter">Recherche:</label>
+        <label for="filter">Filtrer :</label>
         <input type="text" class="form-control" id="filter">
     </div>
     <div class="table-responsive">
@@ -52,8 +52,8 @@ icon: "chrono"
     const ITEMS_PER_PAGE = 10;
     let csvData = [];
     let filteredData = [];
-    let sortedBy = null;
-    let sortDirection = 1;
+    let sortedBy = 0;  // Indique que nous trions par la première colonne
+    let sortDirection = -1;  // Indique que nous trions en ordre descendant
 
     $(document).ready(function() {
         $.ajax({
@@ -62,6 +62,21 @@ icon: "chrono"
             success: function(data) {
                 csvData = $.csv.toArrays(data);
                 filteredData = csvData.slice(1); // copy all except headers
+                filteredData.sort((a, b) => {
+                    let valA = a[sortedBy];
+                    let valB = b[sortedBy];
+                    if (!isNaN(valA) && !isNaN(valB)) {
+                        valA = Number(valA);
+                        valB = Number(valB);
+                    }
+                    if (valA < valB) {
+                        return -sortDirection;
+                    }
+                    if (valA > valB) {
+                        return sortDirection;
+                    }
+                    return 0;
+                });
                 renderTable(csvData, 1);
             }
         });
@@ -105,9 +120,12 @@ icon: "chrono"
                 sortDirection = 1;
             }
             filteredData.sort((a, b) => {
-                let valA = a[column];
-                let valB = b[column];
-                if (!isNaN(valA) && !isNaN(valB)) {
+                let valA = a[sortedBy];
+                let valB = b[sortedBy];
+                if (sortedBy === 0) {  // Si nous trions par la première colonne (timestamp)
+                    valA = new Date(valA);
+                    valB = new Date(valB);
+                } else if (!isNaN(valA) && !isNaN(valB)) {
                     valA = Number(valA);
                     valB = Number(valB);
                 }
@@ -119,7 +137,6 @@ icon: "chrono"
                 }
                 return 0;
             });
-            renderTable(csvData, 1);
         });
     }
 
