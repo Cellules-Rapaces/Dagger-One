@@ -117,6 +117,10 @@ icon: ""
         $('#dataTable').html(html);
         createPagination(filteredData.length, pageNum);
 
+        $('#dataTable').html(html);
+        createPagination(filteredData.length, pageNum);
+
+        // Attache les gestionnaires d'événements de tri aux en-têtes de colonnes
         $('.sort-indicator').on('click', function() {
             let column = $(this).data('column');
             if (sortedBy === column) {
@@ -126,12 +130,9 @@ icon: ""
                 sortDirection = 1;
             }
             filteredData.sort((a, b) => {
-                let valA = a[sortedBy];
-                let valB = b[sortedBy];
-                if (sortedBy === 0) {  // Si nous trions par la première colonne (timestamp)
-                    valA = new Date(valA);
-                    valB = new Date(valB);
-                } else if (!isNaN(valA) && !isNaN(valB)) {
+                let valA = a[column];
+                let valB = b[column];
+                if (!isNaN(valA) && !isNaN(valB)) {
                     valA = Number(valA);
                     valB = Number(valB);
                 }
@@ -143,6 +144,7 @@ icon: ""
                 }
                 return 0;
             });
+            renderTable(csvData, 1);
         });
     }
 
