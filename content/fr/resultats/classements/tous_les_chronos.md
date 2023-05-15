@@ -20,6 +20,8 @@ icon: ""
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
+<script src="https://cdnjs.com/libraries/moment.js"></script>
+
 <style>
     .pagination {
         margin-top: 10px;
@@ -159,4 +161,7 @@ icon: ""
     }
 </script>
 
-<script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
+<script src="moment.js"></script>
+<script>
+    moment().format();
+</script>
