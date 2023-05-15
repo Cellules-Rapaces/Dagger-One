@@ -20,7 +20,7 @@ Dagger One est une course reprenant l'esprit de la mission au coeur du film **To
 
 ## Description plus détaillée
 
-Cette course comprend 6 Portes et une cible.
+Cette course comprend 7 Portes et une cible.
 
 Les Portes sont marquées par des fumigènes oranges :
 

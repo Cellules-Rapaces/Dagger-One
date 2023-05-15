@@ -27,16 +27,17 @@ icon: "jf-17-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_JF17_elo.json">
+  data-url="/data/classement_JF17.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Classement</th>
-      <th data-field="Country" data-sortable="true">Pays</th>
-      <th data-field="Player">Pilote</th>
-      <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Combats</th>
-      <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Niveau</th>
+      <th data-field="Rang" data-sortable="true">Classement</th>
+      <th data-field="Nom du joueur">Pilote</th>
+      <th data-field="Temps" data-sortable="true">Temps</th>
+      <th data-field="Temps intermédiaire1 (s)" data-sortable="true">Temps Gate2</th>
+      <th data-field="Temps intermédiaire2 (s)" data-sortable="true">Temps Gate3</th>
+      <th data-field="Temps intermédiaire3 (s)" data-sortable="true">Temps Gate4</th>
+      <th data-field="Temps intermédiaire4 (s)" data-sortable="true">Temps Gate5</th>
+      <th data-field="Temps intermédiaire5 (s)" data-sortable="true">Temps Gate6</th>
     </tr>
   </thead>
 </table>
