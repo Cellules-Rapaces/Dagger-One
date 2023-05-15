@@ -86,21 +86,45 @@ icon: ""
         $('#filter').on('keyup', function() {
             let value = $(this).val().toLowerCase();
             filteredData = csvData.slice(1).filter(row => row.join(' ').toLowerCase().includes(value));
-            renderTable(csvData, 1);
+
+            // Après la mise à jour des données filtrées, réappliquer le tri
+            filteredData.sort((a, b) => {
+                let valA = a[sortedBy];
+                let valB = b[sortedBy];
+                if (sortedBy === 0) {  // Si nous trions par la première colonne (timestamp)
+                    valA = new Date(valA);
+                    valB = new Date(valB);
+                } else if (!isNaN(valA) && !isNaN(valB)) {
+                    valA = Number(valA);
+                    valB = Number(valB);
+                }
+                if (valA < valB) {
+                    return -sortDirection;
+                }
+                if (valA > valB) {
+                    return sortDirection;
+                }
+                return 0;
+            });
+
+            renderTable(filteredData, 1);
         });
     });
 
     function renderTable(data, pageNum) {
-        let html = '<thead><tr>';
-        for (let j = 0; j < data[0].length; j++) {
-            html += '<th class="sort-indicator" data-column="' + j + '">' + data[0][j];
-            html += '<span class="sort-asc' + (j === sortedBy && sortDirection === 1 ? ' active' : '') + '">&#9650;</span>';
-            html += '<span class="sort-desc' + (j === sortedBy && sortDirection === -1 ? ' active' : '') + '">&#9660;</span>';
-            html += '</th>';
+        let start = (pageNum - 1) * rowsPerPage;
+        let end = start + rowsPerPage;
+        let paginatedItems = filteredData.slice(start, end);
+
+        let html = '<table class="table table-striped">';
+        html += '<thead><tr>';
+        for (let i = 0; i < csvData[0].length; i++) {
+            let ascDescIndicator = (i === sortedBy) ? (sortDirection === 1 ? ' ▲' : ' ▼') : '';
+            html += '<th>' + csvData[0][i] + '<span class="sort-indicator" data-column="' + i + '">' + ascDescIndicator + '</span></th>';
         }
-        html += '</tr></thead><tbody>';
-        let start = (pageNum - 1) * ITEMS_PER_PAGE;
-        let end = start + ITEMS_PER_PAGE;
+        html += '</tr></thead>';
+        html += '<tbody>';
+
         for (let i = start; i < end && i < filteredData.length; i++) {
             html += '<tr>';
             for (let j = 0; j < filteredData[i].length; j++) {
