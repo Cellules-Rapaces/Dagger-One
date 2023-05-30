@@ -35,15 +35,15 @@ Le parcours dans la vallée est balisé par des fumigènes verts entre les Porte
 ![Image fumigène vert](images/DO_fumi-vert.jpg)
 
 La deuxième Porte se trouve au-dessus d'un pont.
-Un bonus de xx secondes est accordé en cas de passage sous le pont, et yy secondes si ce passage sous le pont se fait sur le dos.
+Un bonus de **20 secondes** est accordé en cas de passage sous le pont, et **25 secondes** si ce passage sous le pont se fait sur le dos.
 
 ![Image de la deuxième Porte](images/DO_gate2.jpg)
 
-Un bonus de zz secondes est accordé en cas de destruction de la cible se trouvant entre les Portes 4 et 5 :
+Un bonus de **25 secondes** est accordé en cas de destruction de la cible se trouvant entre les Portes 4 et 5 :
 
 ![Image de la cible](images/DO_target1.jpg)
 
-Un bonus de zz secondes est accordé en cas de destruction de la cible se trouvant entre les Portes 6 et 7 :
+Un bonus de **20 secondes** est accordé en cas de destruction de la cible se trouvant entre les Portes 6 et 7 :
 
 ![Image de la cible](images/DO_target2.jpg)
 
@@ -51,7 +51,9 @@ Des systèmes et unités de défense sol-air jalonnent le parcours pour pimenter
 
 ![Image d'unité sol-air](images/DO_menaces-sol-air.png)
 
-Un bonus de 10 secondes est accordé à chaque menace air-air détruite.
+Quelques bonus temps supplémentaires possibles :
+- **10 secondes** pour chaque menace air-air détruite.
+- **3 secondes** pour 10s de vol continu sous 300ft sol.
 
 L'utilisation de SRS est fortement recommandée pour une bonne immersion dans le défi, des messages audios sont diffusés sur la radio pendant le parcours.
 
