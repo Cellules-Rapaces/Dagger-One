@@ -20,7 +20,7 @@ Dagger One est une course reprenant l'esprit de la mission au coeur du film **To
 
 ## Description plus détaillée
 
-Cette course comprend 7 Portes et une cible.
+Cette course comprend 7 Portes, deux cibles, deux menaces air-air et de multiples menaces sol-air.
 
 Les Portes sont marquées par des fumigènes oranges :
 
@@ -35,17 +35,23 @@ Le parcours dans la vallée est balisé par des fumigènes verts entre les Porte
 ![Image fumigène vert](images/DO_fumi-vert.jpg)
 
 La deuxième Porte se trouve au-dessus d'un pont.
-Un bonus de xx secondes est accordé en cas de passage sous le pont, et yy secondes si ce passage sous le pont se fait sur le dos. (en cours d'implémentation)
+Un bonus de xx secondes est accordé en cas de passage sous le pont, et yy secondes si ce passage sous le pont se fait sur le dos.
 
 ![Image de la deuxième Porte](images/DO_gate2.jpg)
 
-Un bonus de zz secondes est accordé en cas de destruction de la cible se trouvant entre les deux dernières Portes :
+Un bonus de zz secondes est accordé en cas de destruction de la cible se trouvant entre les Portes 4 et 5 :
 
-![Image de la cible](images/DO_target.jpg)
+![Image de la cible](images/DO_target1.jpg)
+
+Un bonus de zz secondes est accordé en cas de destruction de la cible se trouvant entre les Portes 6 et 7 :
+
+![Image de la cible](images/DO_target2.jpg)
 
 Des systèmes et unités de défense sol-air jalonnent le parcours pour pimenter celui-ci.
 
 ![Image d'unité sol-air](images/DO_menaces-sol-air.png)
+
+Un bonus de 10 secondes est accordé à chaque menace air-air détruite.
 
 L'utilisation de SRS est fortement recommandée pour une bonne immersion dans le défi, des messages audios sont diffusés sur la radio pendant le parcours.
 
