@@ -21,8 +21,8 @@ for (var i = 0; i < aircraftTypes.length; i++) {
             dataType: 'text',
             success: function(data) {
               if (data != "") {
-                $('.FastestPlayer' + aircraftKey).replaceWith('<h3 class="FastestPlayer' + aircraftKey + ' text-center" style="margin-top: 8px;">' + data + '</h3>');
-                $('.FastestPlayer' + aircraftKey + '_pic').replaceWith('<img class="FastestPlayer' + aircraftKey + '_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_' + data + '.jpg" height="100px" width="100px">');
+                $('.FastestPlayer_' + aircraftKey).replaceWith('<h3 class="FastestPlayer_' + aircraftKey + ' text-center" style="margin-top: 8px;">' + data + '</h3>');
+                $('.FastestPlayer_' + aircraftKey + '_pic').replaceWith('<img class="FastestPlayer_' + aircraftKey + '_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_' + data + '.jpg" height="100px" width="100px">');
               }
             }
         });
@@ -33,7 +33,7 @@ for (var i = 0; i < aircraftTypes.length; i++) {
             dataType: 'text',
             success: function(data) {
               if (data != "") {
-                $('.FastestTime' + aircraftKey).replaceWith('<h4><span class="FastestTime' + aircraftKey + ' badge bg-primary">' + data + '</span></h4>');
+                $('.FastestTime_' + aircraftKey).replaceWith('<h4><span class="FastestTime_' + aircraftKey + ' badge bg-primary">' + data + '</span></h4>');
               }
             }
         });

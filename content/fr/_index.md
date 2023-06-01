@@ -21,11 +21,11 @@ images: []
       <img src="/images/Trophy_F18.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur F/A-18C par : </p>
-        <img class="FastestPlayerF18_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
-        <h3 class="FastestPlayerF18 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Fahrenheit</h3>
+        <img class="FastestPlayer_FA_18C_hornet_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_FA_18C_hornet text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Fahrenheit</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-18-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeF18 badge bg-primary">-- min --.---</span></h4>
+          <h4><span class="FastestTime_FA_18C_hornet badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
@@ -42,11 +42,11 @@ images: []
       <img src="/images/Trophy_F14.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur F-14B par : </p>
-        <img class="FastestPlayerF14_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
-        <h3 class="FastestPlayerF14 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
+        <img class="FastestPlayer_F_14B_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_F_14B text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-14-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeF14 badge bg-primary">-- min --.---</span></h4>
+          <h4><span class="FastestTime_F_14B badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
@@ -63,11 +63,11 @@ images: []
       <img src="/images/Trophy_F16.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur F-16C par : </p>
-        <img class="FastestPlayerF16_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
-        <h3 class="FastestPlayerF16 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Pitbull</h3>
+        <img class="FastestPlayer_F_16C_50_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_F_16C_50 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Pitbull</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-16-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeF16 badge bg-primary">-- min --.---</span></h4>
+          <h4><span class="FastestTime_F_16C_50 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
@@ -84,11 +84,11 @@ images: []
       <img src="/images/Trophy_JF17.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur JF-17 par : </p>
-        <img class="FastestPlayerJF17_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
-        <h3 class="FastestPlayerJF17 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
+        <img class="FastestPlayer_JF_17_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_JF_17 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-jf-17-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTimeJF17 badge bg-primary">-- min --.---</span></h4>
+          <h4><span class="FastestTime_JF_17 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
