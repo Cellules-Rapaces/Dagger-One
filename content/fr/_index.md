@@ -105,11 +105,11 @@ images: []
       <img src="/images/Trophy_MF1CE.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur Mirage F1-EE par : </p>
-        <img class="FastestPlayer_miragef1ee_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
-        <h3 class="FastestPlayer_miragef1ee text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
+        <img class="FastestPlayer_Mirage_F1EE_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_Mirage_F1EE text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-mf1-h" style="font-size: 2.73em;"></div>
-          <h4><span class="FastestTime_miragef1ee badge bg-primary">-- min --.---</span></h4>
+          <h4><span class="FastestTime_Mirage_F1EE badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_Mirage_F1EE" class="table table-secondary table-striped table-hover mb-0 mt-0">
