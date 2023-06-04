@@ -43,8 +43,22 @@
   parent = "resultats"
 
 [[main]]
-  name = "⏱️ Tous les chronos"
+  name = "Classement Mirage F1-EE"
   weight = 80
+  pre = "mf1-h"
+  url = "/resultats/classements/classement_miragef1ee"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement MiG-21Bis"
+  weight = 90
+  pre = "mig21-h"
+  url = "/resultats/classements/classement_MiG_21Bis"
+  parent = "resultats"
+
+[[main]]
+  name = "⏱️ Tous les chronos"
+  weight = 100
   pre = ""
   url = "/resultats/classements/tous_les_chronos"
   parent = "resultats"

@@ -27,7 +27,7 @@ icon: "f-16-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/classement_F16.json">
+  data-url="/data/classement_F_16C_50.json">
   <thead>
     <tr>
       <th data-field="Rang" data-sortable="true">Classement</th>
@@ -38,6 +38,7 @@ icon: "f-16-h"
       <th data-field="Temps intermédiaire3 (s)" data-sortable="true">Temps Gate4</th>
       <th data-field="Temps intermédiaire4 (s)" data-sortable="true">Temps Gate5</th>
       <th data-field="Temps intermédiaire5 (s)" data-sortable="true">Temps Gate6</th>
+      <th data-field="Bonus temps (s)" data-sortable="true">Bonus temps</th>
     </tr>
   </thead>
 </table>

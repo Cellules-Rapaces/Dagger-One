@@ -1,7 +1,7 @@
 ---
-title: "Classement JF-17"
+title: "Classement Mirage F1-EE"
 description: ""
-lead: "Classement JF-17"
+lead: "Classement Mirage F1-EE"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -10,9 +10,9 @@ type: docs
 menu:
   resultats:
     parent: "classements"
-weight: 50
+weight: 60
 toc: true
-icon: "jf-17-h"
+icon: "mf1-h"
 ---
 
 <!-- Flag icons -->
@@ -27,7 +27,7 @@ icon: "jf-17-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/classement_JF_17.json">
+  data-url="/data/classement_Mirage_F1EE.json">
   <thead>
     <tr>
       <th data-field="Rang" data-sortable="true">Classement</th>

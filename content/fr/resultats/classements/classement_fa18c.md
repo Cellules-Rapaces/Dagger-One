@@ -27,7 +27,7 @@ icon: "f-18-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/classement_F18.json">
+  data-url="/data/classement_FA_18C_hornet.json">
   <thead>
     <tr>
       <th data-field="Rang" data-sortable="true">Classement</th>
@@ -38,6 +38,7 @@ icon: "f-18-h"
       <th data-field="Temps intermédiaire3 (s)" data-sortable="true">Temps Gate4</th>
       <th data-field="Temps intermédiaire4 (s)" data-sortable="true">Temps Gate5</th>
       <th data-field="Temps intermédiaire5 (s)" data-sortable="true">Temps Gate6</th>
+      <th data-field="Bonus temps (s)" data-sortable="true">Bonus temps</th>
     </tr>
   </thead>
 </table>

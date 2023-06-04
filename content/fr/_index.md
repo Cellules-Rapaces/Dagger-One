@@ -28,7 +28,7 @@ images: []
           <h4><span class="FastestTime_FA_18C_hornet badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
-      <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_FA_18C_hornet" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_fa18c"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-18-h"></span></a>
@@ -49,7 +49,7 @@ images: []
           <h4><span class="FastestTime_F_14B badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
-      <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_F_14B" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-14-h"></span></a>
@@ -70,7 +70,7 @@ images: []
           <h4><span class="FastestTime_F_16C_50 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
-      <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_F_16C_50" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_f16c50"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-16-h"></span></a>
@@ -91,10 +91,52 @@ images: []
           <h4><span class="FastestTime_JF_17 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
-      <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_JF_17" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_jf17"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-jf-17-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium Mirage F1-EE -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="/images/Trophy_MF1CE.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur Mirage F1-EE par : </p>
+        <img class="FastestPlayer_miragef1ee_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_miragef1ee text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-mf1-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTime_miragef1ee badge bg-primary">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_Mirage_F1EE" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_miragef1ee"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-mf1-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium MiG-21 -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="/images/Trophy_MiG21.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur MiG-21Bis par : </p>
+        <img class="FastestPlayer_MiG_21Bis_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_MiG_21Bis text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-fr"> </span> Bunker</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-mig21-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTime_MiG_21Bis badge bg-primary">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_MiG_21Bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_MiG_21Bis"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-mig21-h"></span></a>
       </div>
     </div>
   </div>
