@@ -12,7 +12,7 @@ menu:
     parent: "classements"
 weight: 10
 toc: true
-icon: "f4-h"
+icon: "f-4-h"
 ---
 
 <!-- Flag icons -->
@@ -27,7 +27,7 @@ icon: "f4-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/classement_F_4E_45MC.json">
+  data-url="/data/classement_F_4E-45MC.json">
   <thead>
     <tr>
       <th data-field="Rang" data-sortable="true">Classement</th>

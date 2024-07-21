@@ -6,7 +6,10 @@ $(document).ready(function () {
       "F-16C_50",
       "JF-17",
       "MiG-21Bis",
-      "Mirage-F1EE"
+      "Mirage-F1EE",
+      "M-2000C",
+      "AV8BNA",
+      "F-4E-45MC"
   ];
 
   function buildPodium(aircraftType) {

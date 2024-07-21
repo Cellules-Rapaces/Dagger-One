@@ -7,7 +7,10 @@ var aircraftTypes = [
     "F-16C_50",
     "JF-17",
     "MiG-21Bis",
-    "Mirage-F1EE"
+    "Mirage-F1EE",
+    "M-2000C",
+    "AV8BNA",
+    "F-4E_45MC"
 ];
 
 // Chargement data de meilleurs temps pour chaque avion

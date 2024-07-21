@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'coubystark-air';
+  src:  url('fonts/coubystark-air.eot?yqo4py');
+  src:  url('fonts/coubystark-air.eot?yqo4py#iefix') format('embedded-opentype'),
+    url('fonts/coubystark-air.ttf?yqo4py') format('truetype'),
+    url('fonts/coubystark-air.woff?yqo4py') format('woff'),
+    url('fonts/coubystark-air.svg?yqo4py#coubystark-air') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'coubystark-air' !important;
@@ -27,6 +39,9 @@
 }
 .icon-f-5-h:before {
   content: "\e904";
+}
+.icon-f-4-h:before {
+  content: "\e91d";
 }
 .icon-f-14-h:before {
   content: "\e905";

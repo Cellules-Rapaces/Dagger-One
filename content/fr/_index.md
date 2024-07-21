@@ -108,14 +108,14 @@ images: []
         <img class="FastestPlayer_F4E_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
         <h3 class="FastestPlayer_F_4E_45MC text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
         <div class="d-flex justify-content-between align-items-center">
-          <div class="icon-f4-h" style="font-size: 2.73em;"></div>
+          <div class="icon-f-4-h" style="font-size: 2.73em;"></div>
           <h4><span class="FastestTime_F_4E_45MC badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
       <table id="table_F_4E_45MC" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f4e"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f4-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_f4e"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-4-h"></span></a>
       </div>
     </div>
   </div>
