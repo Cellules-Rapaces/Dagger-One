@@ -73,7 +73,7 @@ images: []
       <table id="table_M_2000C" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_m2000C"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-M2000-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_m2000c"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-M2000-h"></span></a>
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@ images: []
       <table id="table_AV8BNA" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_AV8BNA"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-av8b-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_av8b"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-av8b-h"></span></a>
       </div>
     </div>
   </div>

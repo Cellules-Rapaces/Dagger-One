@@ -15,50 +15,64 @@
   weight = 25
 
 [[main]]
-  name = "Classement F-14B"
+  name = "Classement F/A-18C"
   weight = 30
+  pre = "f-18-h"
+  url = "/resultats/classements/classement_fa18c"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement M-2000C"
+  weight = 40
+  pre = "M2000-h"
+  url = "/resultats/classements/classement_m2000c"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement F-14B"
+  weight = 50
   pre = "f-14-h"
   url = "/resultats/classements/classement_f14b"
   parent = "resultats"
 
 [[main]]
   name = "Classement F-16C Block50"
-  weight = 50
+  weight = 60
   pre = "f-16-h"
   url = "/resultats/classements/classement_f16c50"
   parent = "resultats"
 
 [[main]]
-  name = "Classement F/A-18C"
-  weight = 60
-  pre = "f-18-h"
-  url = "/resultats/classements/classement_fa18c"
+  name = "Classement AV8B"
+  weight = 70
+  pre = "av8b-h"
+  url = "/resultats/classements/classement_av8b"
   parent = "resultats"
 
 [[main]]
   name = "Classement JF-17"
-  weight = 70
+  weight = 80
   pre = "jf-17-h"
   url = "/resultats/classements/classement_jf17"
   parent = "resultats"
 
 [[main]]
   name = "Classement Mirage F1-EE"
-  weight = 80
+  weight = 90
   pre = "mf1-h"
   url = "/resultats/classements/classement_miragef1ee"
   parent = "resultats"
 
 [[main]]
   name = "Classement MiG-21Bis"
-  weight = 90
+  weight = 100
   pre = "mig21-h"
   url = "/resultats/classements/classement_MiG_21Bis"
   parent = "resultats"
 
 [[main]]
   name = "⏱️ Tous les chronos"
-  weight = 100
+  weight = 110
   pre = ""
   url = "/resultats/classements/tous_les_chronos"
   parent = "resultats"
