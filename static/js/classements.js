@@ -9,6 +9,7 @@ $(document).ready(function () {
       "Mirage-F1EE",
       "M-2000C",
       "AV8BNA",
+      "F-4E-45MC"
   ];
 
   function buildPodium(aircraftType) {
