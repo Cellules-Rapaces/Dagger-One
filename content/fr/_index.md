@@ -57,6 +57,48 @@ images: []
     </div>
   </div>
 
+  <!-- Podium M2000C -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="/images/Trophy_M2000C.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur M-2000C par : </p>
+        <img class="FastestPlayer_M_2000C_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_M_2000C text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-M2000-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTime_M_2000C badge bg-primary">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_M_2000C" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_m2000C"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-M2000-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium AV8BNA -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="/images/Trophy_AV8B.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur AV8B par : </p>
+        <img class="FastestPlayer_AV8B_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_AV8BNA text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-av8b-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTime_AV8BNA badge bg-primary">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_AV8BNA" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_AV8BNA"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-av8b-h"></span></a>
+      </div>
+    </div>
+  </div>
+
   <!-- Podium F-16 -->
   <div class="col">
     <div class="card shadow-sm">

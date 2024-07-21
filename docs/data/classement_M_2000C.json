@@ -1,0 +1,35 @@
+[
+	{
+		"Rang": 1,
+		"Nom du joueur": "Nyltii",
+		"Temps": "02 min 35.670",
+		"Temps intermédiaire1 (s)": "25.45",
+		"Temps intermédiaire2 (s)": "94.75",
+		"Temps intermédiaire3 (s)": "130.55",
+		"Temps intermédiaire4 (s)": "182.38",
+		"Temps intermédiaire5 (s)": "205.75",
+		"Bonus temps (s)": "78"
+	},
+	{
+		"Rang": 2,
+		"Nom du joueur": "VALTA",
+		"Temps": "03 min 36.670",
+		"Temps intermédiaire1 (s)": "28.05",
+		"Temps intermédiaire2 (s)": "99.03",
+		"Temps intermédiaire3 (s)": "138.37",
+		"Temps intermédiaire4 (s)": "194.15",
+		"Temps intermédiaire5 (s)": "223.48",
+		"Bonus temps (s)": "37"
+	},
+	{
+		"Rang": 3,
+		"Nom du joueur": "CoubyStark",
+		"Temps": "04 min 27.500",
+		"Temps intermédiaire1 (s)": "32.65",
+		"Temps intermédiaire2 (s)": "124.41",
+		"Temps intermédiaire3 (s)": "171.53",
+		"Temps intermédiaire4 (s)": "245.72",
+		"Temps intermédiaire5 (s)": "278.75",
+		"Bonus temps (s)": "52"
+	}
+]
