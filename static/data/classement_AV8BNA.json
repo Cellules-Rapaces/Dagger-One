@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "[NIGHTMARE 9-2] Dick",
+		"Temps": "03 min 39.510",
+		"Temps intermédiaire1 (s)": "36.09",
+		"Temps intermédiaire2 (s)": "138.47",
+		"Temps intermédiaire3 (s)": "185.13",
+		"Temps intermédiaire4 (s)": "260.76",
+		"Temps intermédiaire5 (s)": "296.18",
+		"Bonus temps (s)": "119"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "Dick",
 		"Temps": "04 min 19.150",
 		"Temps intermédiaire1 (s)": "39.33",
@@ -9,16 +20,5 @@
 		"Temps intermédiaire4 (s)": "273.93",
 		"Temps intermédiaire5 (s)": "310.09",
 		"Bonus temps (s)": "94"
-	},
-	{
-		"Rang": 2,
-		"Nom du joueur": "[NIGHTMARE 9-2] Dick",
-		"Temps": "04 min 25.490",
-		"Temps intermédiaire1 (s)": "39.35",
-		"Temps intermédiaire2 (s)": "151.3",
-		"Temps intermédiaire3 (s)": "205.4",
-		"Temps intermédiaire4 (s)": "286.94",
-		"Temps intermédiaire5 (s)": "322.27",
-		"Bonus temps (s)": "99"
 	}
 ]
