@@ -34,6 +34,17 @@
 	},
 	{
 		"Rang": 4,
+		"Nom du joueur": "[CR] CoubyStark",
+		"Temps": "03 min 35.370",
+		"Temps intermédiaire1 (s)": "28.63",
+		"Temps intermédiaire2 (s)": "108.95",
+		"Temps intermédiaire3 (s)": "147.32",
+		"Temps intermédiaire4 (s)": "208.85",
+		"Temps intermédiaire5 (s)": "234.26",
+		"Bonus temps (s)": "54"
+	},
+	{
+		"Rang": 5,
 		"Nom du joueur": "OuiOui 1-1",
 		"Temps": "03 min 57.470",
 		"Temps intermédiaire1 (s)": "29.64",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "36"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "Noz",
 		"Temps": "04 min 14.720",
 		"Temps intermédiaire1 (s)": "27.5",
