@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "CoubyStark",
+		"Temps": "03 min 00.400",
+		"Temps intermédiaire1 (s)": "28.87",
+		"Temps intermédiaire2 (s)": "105.9",
+		"Temps intermédiaire3 (s)": "141.65",
+		"Temps intermédiaire4 (s)": "199.17",
+		"Temps intermédiaire5 (s)": "221.99",
+		"Bonus temps (s)": "77"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "Nyltii",
 		"Temps": "03 min 06.690",
 		"Temps intermédiaire1 (s)": "27.55",
@@ -9,17 +20,6 @@
 		"Temps intermédiaire4 (s)": "204.59",
 		"Temps intermédiaire5 (s)": "232.51",
 		"Bonus temps (s)": "77"
-	},
-	{
-		"Rang": 2,
-		"Nom du joueur": "CoubyStark",
-		"Temps": "03 min 07.900",
-		"Temps intermédiaire1 (s)": "29.06",
-		"Temps intermédiaire2 (s)": "104.34",
-		"Temps intermédiaire3 (s)": "140.1",
-		"Temps intermédiaire4 (s)": "196.83",
-		"Temps intermédiaire5 (s)": "220.44",
-		"Bonus temps (s)": "68"
 	},
 	{
 		"Rang": 3,
