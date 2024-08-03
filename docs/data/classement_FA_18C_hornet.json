@@ -2,13 +2,13 @@
 	{
 		"Rang": 1,
 		"Nom du joueur": "CoubyStark",
-		"Temps": "03 min 00.400",
-		"Temps intermédiaire1 (s)": "28.87",
-		"Temps intermédiaire2 (s)": "105.9",
-		"Temps intermédiaire3 (s)": "141.65",
-		"Temps intermédiaire4 (s)": "199.17",
-		"Temps intermédiaire5 (s)": "221.99",
-		"Bonus temps (s)": "77"
+		"Temps": "02 min 48.090",
+		"Temps intermédiaire1 (s)": "29.14",
+		"Temps intermédiaire2 (s)": "105.53",
+		"Temps intermédiaire3 (s)": "141.23",
+		"Temps intermédiaire4 (s)": "199.32",
+		"Temps intermédiaire5 (s)": "222.57",
+		"Bonus temps (s)": "85"
 	},
 	{
 		"Rang": 2,
@@ -53,5 +53,16 @@
 		"Temps intermédiaire4 (s)": "236.83",
 		"Temps intermédiaire5 (s)": "264.62",
 		"Bonus temps (s)": "43"
+	},
+	{
+		"Rang": 6,
+		"Nom du joueur": "CR | OuiOui",
+		"Temps": "04 min 15.640",
+		"Temps intermédiaire1 (s)": "27.51",
+		"Temps intermédiaire2 (s)": "108.9",
+		"Temps intermédiaire3 (s)": "153.1",
+		"Temps intermédiaire4 (s)": "214.74",
+		"Temps intermédiaire5 (s)": "245",
+		"Bonus temps (s)": "28"
 	}
 ]

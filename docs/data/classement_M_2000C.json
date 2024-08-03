@@ -12,6 +12,17 @@
 	},
 	{
 		"Rang": 2,
+		"Nom du joueur": "CoubyStark",
+		"Temps": "02 min 54.900",
+		"Temps intermédiaire1 (s)": "30.01",
+		"Temps intermédiaire2 (s)": "103.02",
+		"Temps intermédiaire3 (s)": "139.15",
+		"Temps intermédiaire4 (s)": "197.12",
+		"Temps intermédiaire5 (s)": "224.26",
+		"Bonus temps (s)": "83"
+	},
+	{
+		"Rang": 3,
 		"Nom du joueur": "VALTA",
 		"Temps": "03 min 36.670",
 		"Temps intermédiaire1 (s)": "28.05",
@@ -22,14 +33,14 @@
 		"Bonus temps (s)": "37"
 	},
 	{
-		"Rang": 3,
-		"Nom du joueur": "CoubyStark",
-		"Temps": "04 min 27.500",
-		"Temps intermédiaire1 (s)": "32.65",
-		"Temps intermédiaire2 (s)": "124.41",
-		"Temps intermédiaire3 (s)": "171.53",
-		"Temps intermédiaire4 (s)": "245.72",
-		"Temps intermédiaire5 (s)": "278.75",
-		"Bonus temps (s)": "52"
+		"Rang": 4,
+		"Nom du joueur": "CR | OuiOui",
+		"Temps": "04 min 19.700",
+		"Temps intermédiaire1 (s)": "32.6",
+		"Temps intermédiaire2 (s)": "120.15",
+		"Temps intermédiaire3 (s)": "168.09",
+		"Temps intermédiaire4 (s)": "232.58",
+		"Temps intermédiaire5 (s)": "268.82",
+		"Bonus temps (s)": "47"
 	}
 ]
