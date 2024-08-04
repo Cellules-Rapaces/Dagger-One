@@ -34,7 +34,7 @@
 	},
 	{
 		"Rang": 4,
-		"Nom du joueur": "OuiOui 1-1",
+		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 57.470",
 		"Temps intermédiaire1 (s)": "29.64",
 		"Temps intermédiaire2 (s)": "102.6",
@@ -53,16 +53,5 @@
 		"Temps intermédiaire4 (s)": "236.83",
 		"Temps intermédiaire5 (s)": "264.62",
 		"Bonus temps (s)": "43"
-	},
-	{
-		"Rang": 6,
-		"Nom du joueur": "CR | OuiOui",
-		"Temps": "04 min 15.640",
-		"Temps intermédiaire1 (s)": "27.51",
-		"Temps intermédiaire2 (s)": "108.9",
-		"Temps intermédiaire3 (s)": "153.1",
-		"Temps intermédiaire4 (s)": "214.74",
-		"Temps intermédiaire5 (s)": "245",
-		"Bonus temps (s)": "28"
 	}
 ]

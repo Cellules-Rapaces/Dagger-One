@@ -84,7 +84,7 @@ images: []
       <img src="/images/Trophy_AV8B.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur AV8B par : </p>
-        <img class="FastestPlayer_AV8B_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <img class="FastestPlayer_AV8BNA_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
         <h3 class="FastestPlayer_AV8BNA text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-av8b-h" style="font-size: 2.73em;"></div>
@@ -105,7 +105,7 @@ images: []
       <img src="/images/Trophy_F4E.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur F-4E par : </p>
-        <img class="FastestPlayer_F4E_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <img class="FastestPlayer_F_4E_45MC_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
         <h3 class="FastestPlayer_F_4E_45MC text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
         <div class="d-flex justify-content-between align-items-center">
           <div class="icon-f-4-h" style="font-size: 2.73em;"></div>
