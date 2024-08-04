@@ -213,7 +213,7 @@ images: []
         <img class="FastestPlayer_Su_27_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
         <h3 class="FastestPlayer_Su_27 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
         <div class="d-flex justify-content-between align-items-center">
-          <div class="icon-av8b-h" style="font-size: 2.73em;"></div>
+          <div class="icon-su27-h" style="font-size: 2.73em;"></div>
           <h4><span class="FastestTime_Su_27 badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>

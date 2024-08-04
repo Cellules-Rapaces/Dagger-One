@@ -81,7 +81,7 @@
   name = "Classement Su-27"
   weight = 105
   pre = "su27-h"
-  url = "/resultats/classements/classement_Su_27"
+  url = "/resultats/classements/classement_su27"
   parent = "resultats"
 
 [[main]]
