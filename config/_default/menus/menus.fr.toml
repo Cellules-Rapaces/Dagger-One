@@ -78,6 +78,13 @@
   parent = "resultats"
 
 [[main]]
+  name = "Classement Su-27"
+  weight = 105
+  pre = "su27-h"
+  url = "/resultats/classements/classement_Su_27"
+  parent = "resultats"
+
+[[main]]
   name = "⏱️ Tous les chronos"
   weight = 110
   pre = ""

@@ -204,6 +204,27 @@ images: []
     </div>
   </div>
 
+  <!-- Podium Su-27 -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="/images/Trophy_Su27.png" class="bd-placeholder-img card-img-top" height="100%">
+      <div class="card-body">
+        <p class="card-text">Le meilleur temps sur Su-27 par : </p>
+        <img class="FastestPlayer_Su_27_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">
+        <h3 class="FastestPlayer_Su_27 text-center" style="margin-top: 8px;"><span class="flag-icon flag-icon-us"> </span> Stardust</h3>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="icon-av8b-h" style="font-size: 2.73em;"></div>
+          <h4><span class="FastestTime_Su_27 badge bg-primary">-- min --.---</span></h4>
+        </div>
+      </div>
+      <table id="table_Su_27" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_su27"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-su27-h"></span></a>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 </div>
