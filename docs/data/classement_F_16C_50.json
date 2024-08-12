@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "[CR] Wolkern721",
+		"Temps": "01 min 56.200",
+		"Temps intermédiaire1 (s)": "26.86",
+		"Temps intermédiaire2 (s)": "95.03",
+		"Temps intermédiaire3 (s)": "128.48",
+		"Temps intermédiaire4 (s)": "181.57",
+		"Temps intermédiaire5 (s)": "205.38",
+		"Bonus temps (s)": "123"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "02 min 42.920",
 		"Temps intermédiaire1 (s)": "26.62",
@@ -9,17 +20,6 @@
 		"Temps intermédiaire4 (s)": "180.27",
 		"Temps intermédiaire5 (s)": "203.81",
 		"Bonus temps (s)": "70"
-	},
-	{
-		"Rang": 2,
-		"Nom du joueur": "[CR] Wolkern721",
-		"Temps": "02 min 52.810",
-		"Temps intermédiaire1 (s)": "29.21",
-		"Temps intermédiaire2 (s)": "101.62",
-		"Temps intermédiaire3 (s)": "136.12",
-		"Temps intermédiaire4 (s)": "197.88",
-		"Temps intermédiaire5 (s)": "222.06",
-		"Bonus temps (s)": "80"
 	},
 	{
 		"Rang": 3,
