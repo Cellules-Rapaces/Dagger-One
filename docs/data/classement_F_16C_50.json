@@ -1,7 +1,7 @@
 [
 	{
 		"Rang": 1,
-		"Nom du joueur": "[CR] Wolkern721",
+		"Nom du joueur": "Wolkern721",
 		"Temps": "01 min 56.200",
 		"Temps intermédiaire1 (s)": "26.86",
 		"Temps intermédiaire2 (s)": "95.03",
@@ -19,17 +19,6 @@
 		"Temps intermédiaire3 (s)": "127.98",
 		"Temps intermédiaire4 (s)": "180.27",
 		"Temps intermédiaire5 (s)": "203.81",
-		"Bonus temps (s)": "70"
-	},
-	{
-		"Rang": 3,
-		"Nom du joueur": "Wolkern721",
-		"Temps": "02 min 54.400",
-		"Temps intermédiaire1 (s)": "27.08",
-		"Temps intermédiaire2 (s)": "101.91",
-		"Temps intermédiaire3 (s)": "135.67",
-		"Temps intermédiaire4 (s)": "188.63",
-		"Temps intermédiaire5 (s)": "214.37",
 		"Bonus temps (s)": "70"
 	}
 ]
