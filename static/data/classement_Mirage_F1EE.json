@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "CoubyStark",
+		"Temps": "03 min 15.740",
+		"Temps intermédiaire1 (s)": "28.36",
+		"Temps intermédiaire2 (s)": "108.03",
+		"Temps intermédiaire3 (s)": "146.04",
+		"Temps intermédiaire4 (s)": "198.8",
+		"Temps intermédiaire5 (s)": "226.98",
+		"Bonus temps (s)": "63"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "Asta☠",
 		"Temps": "03 min 27.030",
 		"Temps intermédiaire1 (s)": "28.12",
@@ -9,17 +20,6 @@
 		"Temps intermédiaire4 (s)": "205.08",
 		"Temps intermédiaire5 (s)": "235.8",
 		"Bonus temps (s)": "66"
-	},
-	{
-		"Rang": 2,
-		"Nom du joueur": "CoubyStark",
-		"Temps": "03 min 43.990",
-		"Temps intermédiaire1 (s)": "30.51",
-		"Temps intermédiaire2 (s)": "109.6",
-		"Temps intermédiaire3 (s)": "148.96",
-		"Temps intermédiaire4 (s)": "199.82",
-		"Temps intermédiaire5 (s)": "224.96",
-		"Bonus temps (s)": "31"
 	},
 	{
 		"Rang": 3,
