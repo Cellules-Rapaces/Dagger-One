@@ -34,7 +34,7 @@
 	},
 	{
 		"Rang": 4,
-		"Nom du joueur": "Clara 1-1 | Psycho",
+		"Nom du joueur": "Psycho",
 		"Temps": "03 min 45.170",
 		"Temps intermédiaire1 (s)": "35.56",
 		"Temps intermédiaire2 (s)": "115.58",
@@ -56,7 +56,7 @@
 	},
 	{
 		"Rang": 6,
-		"Nom du joueur": "CR | OuiOui",
+		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 52.420",
 		"Temps intermédiaire1 (s)": "27.26",
 		"Temps intermédiaire2 (s)": "109.05",
@@ -67,17 +67,6 @@
 	},
 	{
 		"Rang": 7,
-		"Nom du joueur": "OuiOui",
-		"Temps": "03 min 57.470",
-		"Temps intermédiaire1 (s)": "29.64",
-		"Temps intermédiaire2 (s)": "102.6",
-		"Temps intermédiaire3 (s)": "141.38",
-		"Temps intermédiaire4 (s)": "208.17",
-		"Temps intermédiaire5 (s)": "237.64",
-		"Bonus temps (s)": "36"
-	},
-	{
-		"Rang": 8,
 		"Nom du joueur": "Noz",
 		"Temps": "04 min 14.720",
 		"Temps intermédiaire1 (s)": "27.5",
@@ -86,16 +75,5 @@
 		"Temps intermédiaire4 (s)": "236.83",
 		"Temps intermédiaire5 (s)": "264.62",
 		"Bonus temps (s)": "43"
-	},
-	{
-		"Rang": 9,
-		"Nom du joueur": "Psycho",
-		"Temps": "04 min 23.370",
-		"Temps intermédiaire1 (s)": "28.94",
-		"Temps intermédiaire2 (s)": "106.46",
-		"Temps intermédiaire3 (s)": "145.36",
-		"Temps intermédiaire4 (s)": "205.32",
-		"Temps intermédiaire5 (s)": "234.67",
-		"Bonus temps (s)": "6"
 	}
 ]
