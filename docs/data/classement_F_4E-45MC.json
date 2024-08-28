@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "VALTA",
+		"Temps": "03 min 24.950",
+		"Temps intermédiaire1 (s)": "28.82",
+		"Temps intermédiaire2 (s)": "102.6",
+		"Temps intermédiaire3 (s)": "141.32",
+		"Temps intermédiaire4 (s)": "195.87",
+		"Temps intermédiaire5 (s)": "220.46",
+		"Bonus temps (s)": "49"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "03 min 47.500",
 		"Temps intermédiaire1 (s)": "28.38",
