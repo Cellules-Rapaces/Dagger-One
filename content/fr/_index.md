@@ -112,7 +112,7 @@ images: []
           <h4><span class="FastestTime_F_4E_45MC badge bg-primary">-- min --.---</span></h4>
         </div>
       </div>
-      <table id="table_F_4E_45MC" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_F_4E-45MC" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_f4e"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-4-h"></span></a>
