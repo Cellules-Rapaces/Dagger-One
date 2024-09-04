@@ -45,6 +45,17 @@
 	},
 	{
 		"Rang": 5,
+		"Nom du joueur": "Clara 1-1 | Psycho",
+		"Temps": "03 min 43.140",
+		"Temps intermédiaire1 (s)": "30.25",
+		"Temps intermédiaire2 (s)": "106.19",
+		"Temps intermédiaire3 (s)": "145.45",
+		"Temps intermédiaire4 (s)": "213.03",
+		"Temps intermédiaire5 (s)": "242.95",
+		"Bonus temps (s)": "56"
+	},
+	{
+		"Rang": 6,
 		"Nom du joueur": "Psycho",
 		"Temps": "03 min 45.170",
 		"Temps intermédiaire1 (s)": "35.56",
@@ -55,7 +66,7 @@
 		"Bonus temps (s)": "81"
 	},
 	{
-		"Rang": 6,
+		"Rang": 7,
 		"Nom du joueur": "R2D2",
 		"Temps": "03 min 48.620",
 		"Temps intermédiaire1 (s)": "27.41",
@@ -66,7 +77,7 @@
 		"Bonus temps (s)": "52"
 	},
 	{
-		"Rang": 7,
+		"Rang": 8,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 52.420",
 		"Temps intermédiaire1 (s)": "27.26",
@@ -75,17 +86,6 @@
 		"Temps intermédiaire4 (s)": "215.85",
 		"Temps intermédiaire5 (s)": "264.48",
 		"Bonus temps (s)": "75"
-	},
-	{
-		"Rang": 8,
-		"Nom du joueur": "Clara 1-1 | Psycho",
-		"Temps": "04 min 00.320",
-		"Temps intermédiaire1 (s)": "29.64",
-		"Temps intermédiaire2 (s)": "107.97",
-		"Temps intermédiaire3 (s)": "148.51",
-		"Temps intermédiaire4 (s)": "217.13",
-		"Temps intermédiaire5 (s)": "247.27",
-		"Bonus temps (s)": "44"
 	},
 	{
 		"Rang": 9,
