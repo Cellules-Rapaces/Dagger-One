@@ -89,6 +89,17 @@
 	},
 	{
 		"Rang": 9,
+		"Nom du joueur": "Eagle 3-4 | Virus",
+		"Temps": "04 min 00.680",
+		"Temps intermédiaire1 (s)": "27.18",
+		"Temps intermédiaire2 (s)": "95.72",
+		"Temps intermédiaire3 (s)": "128.27",
+		"Temps intermédiaire4 (s)": "183.19",
+		"Temps intermédiaire5 (s)": "214.21",
+		"Bonus temps (s)": "6"
+	},
+	{
+		"Rang": 10,
 		"Nom du joueur": "Noz",
 		"Temps": "04 min 14.720",
 		"Temps intermédiaire1 (s)": "27.5",
