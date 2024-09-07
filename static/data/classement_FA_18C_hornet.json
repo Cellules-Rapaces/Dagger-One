@@ -78,6 +78,17 @@
 	},
 	{
 		"Rang": 8,
+		"Nom du joueur": "Eagle 3-4 | Virus",
+		"Temps": "03 min 50.900",
+		"Temps intermédiaire1 (s)": "29.39",
+		"Temps intermédiaire2 (s)": "98.12",
+		"Temps intermédiaire3 (s)": "132.64",
+		"Temps intermédiaire4 (s)": "189.99",
+		"Temps intermédiaire5 (s)": "226.98",
+		"Bonus temps (s)": "31"
+	},
+	{
+		"Rang": 9,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 52.420",
 		"Temps intermédiaire1 (s)": "27.26",
@@ -86,17 +97,6 @@
 		"Temps intermédiaire4 (s)": "215.85",
 		"Temps intermédiaire5 (s)": "264.48",
 		"Bonus temps (s)": "75"
-	},
-	{
-		"Rang": 9,
-		"Nom du joueur": "Eagle 3-4 | Virus",
-		"Temps": "04 min 00.680",
-		"Temps intermédiaire1 (s)": "27.18",
-		"Temps intermédiaire2 (s)": "95.72",
-		"Temps intermédiaire3 (s)": "128.27",
-		"Temps intermédiaire4 (s)": "183.19",
-		"Temps intermédiaire5 (s)": "214.21",
-		"Bonus temps (s)": "6"
 	},
 	{
 		"Rang": 10,
