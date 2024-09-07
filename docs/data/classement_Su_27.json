@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "CoubyStark",
+		"Temps": "03 min 15.270",
+		"Temps intermédiaire1 (s)": "26.94",
+		"Temps intermédiaire2 (s)": "103.27",
+		"Temps intermédiaire3 (s)": "140.68",
+		"Temps intermédiaire4 (s)": "201.74",
+		"Temps intermédiaire5 (s)": "226.52",
+		"Bonus temps (s)": "63"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "Darkblue",
 		"Temps": "03 min 32.260",
 		"Temps intermédiaire1 (s)": "27.02",
@@ -9,17 +20,6 @@
 		"Temps intermédiaire4 (s)": "196.8",
 		"Temps intermédiaire5 (s)": "222.73",
 		"Bonus temps (s)": "43"
-	},
-	{
-		"Rang": 2,
-		"Nom du joueur": "CoubyStark",
-		"Temps": "03 min 39.720",
-		"Temps intermédiaire1 (s)": "26.96",
-		"Temps intermédiaire2 (s)": "102.4",
-		"Temps intermédiaire3 (s)": "140.23",
-		"Temps intermédiaire4 (s)": "196.43",
-		"Temps intermédiaire5 (s)": "223.62",
-		"Bonus temps (s)": "37"
 	},
 	{
 		"Rang": 3,
