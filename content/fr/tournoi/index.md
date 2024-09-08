@@ -26,7 +26,7 @@ images: []
 Pour avoir une chance de participer à ce tournoi exceptionnel, les pilotes doivent :
 
 1. **Chrono sur DaggerOne Solo :** Avoir réalisé au moins un temps enregistré sur le parcours solo de DaggerOne.
-2. **Inscription :** Remplir le formulaire d'inscription disponible via le lien *en cours*.
+2. **Inscription :** Remplir le formulaire d'inscription disponible via **[ce lien](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.
 3. **Disponibilité le 14 septembre :** Être présent et disponible l'après-midi du tournoi pour participer aux duels.
 
 ## **Règles Spécifiques du Tournoi Duel**
@@ -49,4 +49,4 @@ Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre
 
 ---
 
-*Pour plus d'informations et pour vous inscrire, lien vers formulaire à venir.*
+*Pour plus d'informations et pour vous inscrire, lien vers **[le formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.*
