@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "01 min 47.920",
+		"Temps intermédiaire1 (s)": "27.74",
+		"Temps intermédiaire2 (s)": "98.03",
+		"Temps intermédiaire3 (s)": "134.46",
+		"Temps intermédiaire4 (s)": "191.97",
+		"Temps intermédiaire5 (s)": "219.48",
+		"Bonus temps (s)": "143"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "02 min 09.080",
 		"Temps intermédiaire1 (s)": "26.38",
@@ -11,7 +22,7 @@
 		"Bonus temps (s)": "131"
 	},
 	{
-		"Rang": 2,
+		"Rang": 3,
 		"Nom du joueur": "Madmat",
 		"Temps": "02 min 11.570",
 		"Temps intermédiaire1 (s)": "27.67",
@@ -22,7 +33,7 @@
 		"Bonus temps (s)": "128"
 	},
 	{
-		"Rang": 3,
+		"Rang": 4,
 		"Nom du joueur": "Nyltii",
 		"Temps": "02 min 35.670",
 		"Temps intermédiaire1 (s)": "25.45",
@@ -33,7 +44,7 @@
 		"Bonus temps (s)": "78"
 	},
 	{
-		"Rang": 4,
+		"Rang": 5,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "02 min 45.600",
 		"Temps intermédiaire1 (s)": "26.77",
@@ -42,17 +53,6 @@
 		"Temps intermédiaire4 (s)": "175.55",
 		"Temps intermédiaire5 (s)": "203.05",
 		"Bonus temps (s)": "68"
-	},
-	{
-		"Rang": 5,
-		"Nom du joueur": "Fresco 1-4 | Darkblue",
-		"Temps": "02 min 56.400",
-		"Temps intermédiaire1 (s)": "27.48",
-		"Temps intermédiaire2 (s)": "97.38",
-		"Temps intermédiaire3 (s)": "132.88",
-		"Temps intermédiaire4 (s)": "192.29",
-		"Temps intermédiaire5 (s)": "220.28",
-		"Bonus temps (s)": "75"
 	},
 	{
 		"Rang": 6,
