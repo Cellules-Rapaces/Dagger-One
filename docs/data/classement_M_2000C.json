@@ -12,6 +12,17 @@
 	},
 	{
 		"Rang": 2,
+		"Nom du joueur": "Madmat",
+		"Temps": "02 min 01.170",
+		"Temps intermédiaire1 (s)": "26.93",
+		"Temps intermédiaire2 (s)": "94.98",
+		"Temps intermédiaire3 (s)": "126.61",
+		"Temps intermédiaire4 (s)": "189.15",
+		"Temps intermédiaire5 (s)": "215.4",
+		"Bonus temps (s)": "125"
+	},
+	{
+		"Rang": 3,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "02 min 09.080",
 		"Temps intermédiaire1 (s)": "26.38",
@@ -20,17 +31,6 @@
 		"Temps intermédiaire4 (s)": "196.37",
 		"Temps intermédiaire5 (s)": "224.04",
 		"Bonus temps (s)": "131"
-	},
-	{
-		"Rang": 3,
-		"Nom du joueur": "Madmat",
-		"Temps": "02 min 11.570",
-		"Temps intermédiaire1 (s)": "27.67",
-		"Temps intermédiaire2 (s)": "97.71",
-		"Temps intermédiaire3 (s)": "133.79",
-		"Temps intermédiaire4 (s)": "198.58",
-		"Temps intermédiaire5 (s)": "225.02",
-		"Bonus temps (s)": "128"
 	},
 	{
 		"Rang": 4,
