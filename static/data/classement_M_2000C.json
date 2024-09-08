@@ -45,6 +45,17 @@
 	},
 	{
 		"Rang": 5,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "02 min 56.400",
+		"Temps intermédiaire1 (s)": "27.48",
+		"Temps intermédiaire2 (s)": "97.38",
+		"Temps intermédiaire3 (s)": "132.88",
+		"Temps intermédiaire4 (s)": "192.29",
+		"Temps intermédiaire5 (s)": "220.28",
+		"Bonus temps (s)": "75"
+	},
+	{
+		"Rang": 6,
 		"Nom du joueur": "VALTA",
 		"Temps": "03 min 19.310",
 		"Temps intermédiaire1 (s)": "29.76",
@@ -55,7 +66,7 @@
 		"Bonus temps (s)": "52"
 	},
 	{
-		"Rang": 6,
+		"Rang": 7,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 19.700",
 		"Temps intermédiaire1 (s)": "32.6",
@@ -66,7 +77,7 @@
 		"Bonus temps (s)": "47"
 	},
 	{
-		"Rang": 7,
+		"Rang": 8,
 		"Nom du joueur": "Rickey_",
 		"Temps": "04 min 21.510",
 		"Temps intermédiaire1 (s)": "29.15",
