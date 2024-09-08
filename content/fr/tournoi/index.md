@@ -1,61 +1,52 @@
 ---
-title: "Présentation"
-description: "Présentation du défi Dagger One, par Coubystark."
-date: 2022-07-25T08:49:55+00:00
-lastmod: 2022-07-25T08:49:55+00:00
+title: "Tournoi Duel"
+description: "Présentation de l'event tournoi Dagger One Duel, par Coubystark."
+date: 2024-09-08T07:49:55+00:00
+lastmod: 2024-09-08T07:49:55+00:00
 draft: false
 images: []
 ---
 
-Présentation du défi Dagger One, par Coubystark.
+# **Tournoi Duel DaggerOne : Relevez le Défi Ultime !**
 
-{{< alert icon="⚠️" text="Attention, pour le moment le défi est proposé en version <strong>**BETA**</strong>. Certains aspects et équilibres sont encore en cours de définition. Il en résulte que les chronos actuels ne seront pas conservés. D'avance merci à tous les beta testeurs qui nous aideront à rendre ce challenge captivant !" />}}
+**Êtes-vous prêt à prouver que vous êtes le pilote le plus rapide et le plus audacieux ?** Le Tournoi Duel de DaggerOne est un événement unique, réservé aux meilleurs pilotes du canyon run. Préparez-vous pour un après-midi de duels intenses, le samedi 14 septembre, où chaque seconde compte et chaque erreur peut être fatale. Rejoignez-nous pour cette compétition exclusive, diffusée en direct sur la chaîne Twitch de l'association Armée de l'Air et de l'Espace Esport et Gaming par OuiOui et CoubyStark !
 
-## En bref
+## **Pourquoi Participer au Tournoi Duel DaggerOne ?**
 
-Dagger One est une course reprenant l'esprit de la mission au coeur du film **Top Gun Maverick**.
+- **Un format inédit :** Pour la première fois, affrontez les meilleurs pilotes en duel dans un tournoi à double élimination, un format unique dans le monde des compétitions DCS World.
 
-![Image parcours de la course](images/DO_parcours.jpg)
+- **Un tournoi spectaculaire :** Vivez une expérience de compétition immersive et intense, où chaque run est un défi et chaque duel un moment d'adrénaline pure. Vos exploits seront retransmis en direct pour des milliers de spectateurs.
 
+- **Mesurez-vous aux meilleurs :** Le tableau de départ est construit en fonction des chronos solo de DaggerOne. Vous affronterez d'abord des adversaires à votre niveau, puis monterez en puissance au fil des duels.
 
-## Description plus détaillée
+- **Gloire en jeu :** En plus de la reconnaissance de la communauté, les vainqueurs seront célébrés en direct et pourront revendiquer le titre de meilleur pilote DaggerOne.
 
-Cette course comprend 7 Portes, deux cibles, deux menaces air-air et de multiples menaces sol-air.
+## **Prérequis pour Participer**
 
-Les Portes sont marquées par des fumigènes oranges :
+Pour avoir une chance de participer à ce tournoi exceptionnel, les pilotes doivent :
 
-![Image Porte avec fumigène orange](images/DO_gate1.jpg)
+1. **Chrono sur DaggerOne Solo :** Avoir réalisé au moins un temps enregistré sur le parcours solo de DaggerOne.
+2. **Inscription :** Remplir le formulaire d'inscription disponible via le lien *en cours*.
+3. **Disponibilité le 14 septembre :** Être présent et disponible l'après-midi du tournoi pour participer aux duels.
 
-La Porte finale est marquée par un fumigène rouge :
+## **Règles Spécifiques du Tournoi Duel**
 
-![Image Porte finale avec fumigène rouge](images/DO_gate-last.jpg)
+Pour assurer des duels équitables et spectaculaires, voici les règles à suivre :
 
-Le parcours dans la vallée est balisé par des fumigènes verts entre les Portes, afin de ne pas se tromper de direction :
+1. **Format Double Élimination :** Chaque duel est un affrontement direct entre deux pilotes. Les perdants descendent dans le tableau des éliminés et ont une seconde chance avant d'être définitivement éliminés.
 
-![Image fumigène vert](images/DO_fumi-vert.jpg)
+2. **Classement des Duels :** Le tableau est construit selon les meilleurs chronos solo des joueurs inscrits, rempli dans l'odre du temps le plus lent vers le plus rapide.
 
-La deuxième Porte se trouve au-dessus d'un pont.
-Un bonus de **20 secondes** est accordé en cas de passage sous le pont, et **25 secondes** si ce passage sous le pont se fait sur le dos.
+3. **Déroulement des Duels :** Les duels commencent avec le serveur en pause. Les deux pilotes se positionnent, choisissent leur avion parmi ceux disponibles, et le duel est lancé simultanément une fois qu'ils sont prêts.
 
-![Image de la deuxième Porte](images/DO_gate2.jpg)
+4. **Victoire par Meilleur Temps :** Le gagnant du duel est le pilote qui réalise le meilleur temps sur le run. Si un joueur meurt pendant la course, l'adversaire remporte immédiatement le duel.
 
-Un bonus de **25 secondes** est accordé en cas de destruction de la cible se trouvant entre les Portes 4 et 5 :
+5. **Stream en Direct :** Chaque duel sera retransmis en direct, commenté par OuiOui et CoubyStark, pour une expérience spectaculaire tant pour les pilotes que pour les spectateurs. Attendez-vous à du suspens et des surprises...
 
-![Image de la cible](images/DO_target1.jpg)
+## **Rejoignez l'Aventure DaggerOne !**
 
-Un bonus de **20 secondes** est accordé en cas de destruction de la cible se trouvant entre les Portes 6 et 7 :
+Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre du Tournoi Duel DaggerOne. Inscrivez-vous, affûtez vos sticks, et préparez-vous à entrer dans l'arène le samedi 14 septembre. **Qui sera le pilote le plus rapide ? Qui dominera le canyon ? Le défi est lancé !**
 
-![Image de la cible](images/DO_target2.jpg)
+---
 
-Des systèmes et unités de défense sol-air jalonnent le parcours pour pimenter celui-ci.
-
-![Image d'unité sol-air](images/DO_menaces-sol-air.png)
-
-Quelques bonus temps supplémentaires possibles :
-- **10 secondes** pour chaque menace air-air détruite.
-- **3 secondes** pour 10s de vol continu sous 300ft sol.
-
-L'utilisation de SRS est fortement recommandée pour une bonne immersion dans le défi, des messages audios sont diffusés sur la radio pendant le parcours.
-
-
-**BONNE CHASSE !**
+*Pour plus d'informations et pour vous inscrire, lien vers formulaire à venir.*
