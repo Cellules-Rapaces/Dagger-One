@@ -9,7 +9,7 @@ images: []
 
 # **Tournoi Duel DaggerOne : Relevez le Défi Ultime !**
 
-**Êtes-vous prêt à prouver que vous êtes le pilote le plus rapide et le plus audacieux ?** Le Tournoi Duel de DaggerOne est un événement unique, réservé aux meilleurs pilotes du canyon run. Préparez-vous pour un après-midi de duels intenses, le samedi 14 septembre, où chaque seconde compte et chaque erreur peut être fatale. Rejoignez-nous pour cette compétition exclusive, diffusée en direct sur la chaîne Twitch de l'association Armée de l'Air et de l'Espace Esport et Gaming par OuiOui et CoubyStark !
+**Êtes-vous prêt à prouver que vous êtes le pilote le plus rapide et le plus audacieux ?** Le Tournoi Duel de DaggerOne est un événement unique, réservé aux meilleurs pilotes du canyon run. Préparez-vous pour un après-midi de duels intenses, le samedi 14 septembre, où chaque seconde compte et chaque erreur peut être fatale. Rejoignez-nous pour cette compétition exclusive, diffusée en direct sur la chaîne Twitch de l'[association Armée de l'Air et de l'Espace Esport et Gaming](https://aaeeg.fr) par OuiOui et CoubyStark !
 
 ## **Pourquoi Participer au Tournoi Duel DaggerOne ?**
 
