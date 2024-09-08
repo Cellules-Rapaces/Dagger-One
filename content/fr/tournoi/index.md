@@ -1,8 +1,8 @@
 ---
 title: "Tournoi Duel"
 description: "Présentation de l'event tournoi Dagger One Duel, par Coubystark."
-date: 2024-09-08T07:49:55+00:00
-lastmod: 2024-09-08T07:49:55+00:00
+date: 2024-09-07T07:49:55+00:00
+lastmod: 2024-09-07T07:49:55+00:00
 draft: false
 images: []
 ---
