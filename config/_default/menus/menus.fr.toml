@@ -9,6 +9,12 @@
   weight = 10
 
 [[main]]
+  name = "🥇 Tournoi Duel"
+  url = "/tournoi/"
+  identifier = "tournoi"
+  weight = 15
+
+[[main]]
   name = "🏁 Résultats"
   url = "/resultats/classements/"
   identifier = "resultats"
