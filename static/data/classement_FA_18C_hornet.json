@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "02 min 10.640",
+		"Temps intermédiaire1 (s)": "27.37",
+		"Temps intermédiaire2 (s)": "102.4",
+		"Temps intermédiaire3 (s)": "137.21",
+		"Temps intermédiaire4 (s)": "194.65",
+		"Temps intermédiaire5 (s)": "219.64",
+		"Bonus temps (s)": "117"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "Darkblue",
 		"Temps": "02 min 16.400",
 		"Temps intermédiaire1 (s)": "27.21",
@@ -11,7 +22,7 @@
 		"Bonus temps (s)": "114"
 	},
 	{
-		"Rang": 2,
+		"Rang": 3,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "02 min 48.090",
 		"Temps intermédiaire1 (s)": "29.14",
@@ -22,7 +33,7 @@
 		"Bonus temps (s)": "85"
 	},
 	{
-		"Rang": 3,
+		"Rang": 4,
 		"Nom du joueur": "Virus",
 		"Temps": "03 min 02.170",
 		"Temps intermédiaire1 (s)": "25.94",
@@ -33,7 +44,7 @@
 		"Bonus temps (s)": "71"
 	},
 	{
-		"Rang": 4,
+		"Rang": 5,
 		"Nom du joueur": "Eagle 3-4 | Virus",
 		"Temps": "03 min 05.580",
 		"Temps intermédiaire1 (s)": "26.36",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "69"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "Nyltii",
 		"Temps": "03 min 06.690",
 		"Temps intermédiaire1 (s)": "27.55",
@@ -55,7 +66,7 @@
 		"Bonus temps (s)": "77"
 	},
 	{
-		"Rang": 6,
+		"Rang": 7,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "03 min 10.630",
 		"Temps intermédiaire1 (s)": "30.49",
@@ -66,7 +77,7 @@
 		"Bonus temps (s)": "76"
 	},
 	{
-		"Rang": 7,
+		"Rang": 8,
 		"Nom du joueur": "Madmat",
 		"Temps": "03 min 11.550",
 		"Temps intermédiaire1 (s)": "27.44",
@@ -77,7 +88,7 @@
 		"Bonus temps (s)": "60"
 	},
 	{
-		"Rang": 8,
+		"Rang": 9,
 		"Nom du joueur": "Zanck'",
 		"Temps": "03 min 20.830",
 		"Temps intermédiaire1 (s)": "27.93",
@@ -88,7 +99,7 @@
 		"Bonus temps (s)": "62"
 	},
 	{
-		"Rang": 9,
+		"Rang": 10,
 		"Nom du joueur": "Psycho",
 		"Temps": "03 min 43.140",
 		"Temps intermédiaire1 (s)": "30.25",
@@ -99,7 +110,7 @@
 		"Bonus temps (s)": "56"
 	},
 	{
-		"Rang": 10,
+		"Rang": 11,
 		"Nom du joueur": "R2D2",
 		"Temps": "03 min 48.620",
 		"Temps intermédiaire1 (s)": "27.41",
@@ -110,7 +121,7 @@
 		"Bonus temps (s)": "52"
 	},
 	{
-		"Rang": 11,
+		"Rang": 12,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 52.420",
 		"Temps intermédiaire1 (s)": "27.26",
@@ -121,7 +132,7 @@
 		"Bonus temps (s)": "75"
 	},
 	{
-		"Rang": 12,
+		"Rang": 13,
 		"Nom du joueur": "Noz",
 		"Temps": "04 min 14.720",
 		"Temps intermédiaire1 (s)": "27.5",
