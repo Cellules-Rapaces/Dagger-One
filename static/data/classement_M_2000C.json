@@ -67,6 +67,17 @@
 	},
 	{
 		"Rang": 7,
+		"Nom du joueur": "Rickey_",
+		"Temps": "03 min 30.370",
+		"Temps intermédiaire1 (s)": "28.24",
+		"Temps intermédiaire2 (s)": "102.01",
+		"Temps intermédiaire3 (s)": "144.94",
+		"Temps intermédiaire4 (s)": "210.73",
+		"Temps intermédiaire5 (s)": "242.73",
+		"Bonus temps (s)": "69"
+	},
+	{
+		"Rang": 8,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 19.700",
 		"Temps intermédiaire1 (s)": "32.6",
@@ -75,16 +86,5 @@
 		"Temps intermédiaire4 (s)": "232.58",
 		"Temps intermédiaire5 (s)": "268.82",
 		"Bonus temps (s)": "47"
-	},
-	{
-		"Rang": 8,
-		"Nom du joueur": "Rickey_",
-		"Temps": "04 min 21.510",
-		"Temps intermédiaire1 (s)": "29.15",
-		"Temps intermédiaire2 (s)": "117.88",
-		"Temps intermédiaire3 (s)": "173.48",
-		"Temps intermédiaire4 (s)": "249.35",
-		"Temps intermédiaire5 (s)": "284.95",
-		"Bonus temps (s)": "62"
 	}
 ]
