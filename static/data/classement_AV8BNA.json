@@ -23,6 +23,17 @@
 	},
 	{
 		"Rang": 3,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "03 min 32.770",
+		"Temps intermédiaire1 (s)": "35.94",
+		"Temps intermédiaire2 (s)": "135.76",
+		"Temps intermédiaire3 (s)": "181.6",
+		"Temps intermédiaire4 (s)": "253.51",
+		"Temps intermédiaire5 (s)": "288.14",
+		"Bonus temps (s)": "117"
+	},
+	{
+		"Rang": 4,
 		"Nom du joueur": "Dick",
 		"Temps": "03 min 33.230",
 		"Temps intermédiaire1 (s)": "36.1",
