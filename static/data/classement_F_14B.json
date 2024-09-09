@@ -12,6 +12,17 @@
 	},
 	{
 		"Rang": 2,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "02 min 54.410",
+		"Temps intermédiaire1 (s)": "25",
+		"Temps intermédiaire2 (s)": "91.4",
+		"Temps intermédiaire3 (s)": "123.12",
+		"Temps intermédiaire4 (s)": "176.02",
+		"Temps intermédiaire5 (s)": "196.85",
+		"Bonus temps (s)": "50"
+	},
+	{
+		"Rang": 3,
 		"Nom du joueur": "VALTA",
 		"Temps": "03 min 02.400",
 		"Temps intermédiaire1 (s)": "25.9",
@@ -22,7 +33,7 @@
 		"Bonus temps (s)": "40"
 	},
 	{
-		"Rang": 3,
+		"Rang": 4,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "03 min 14.320",
 		"Temps intermédiaire1 (s)": "26.4",
@@ -33,7 +44,7 @@
 		"Bonus temps (s)": "24"
 	},
 	{
-		"Rang": 4,
+		"Rang": 5,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 45.580",
 		"Temps intermédiaire1 (s)": "31.72",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "38"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "pogo",
 		"Temps": "04 min 58.510",
 		"Temps intermédiaire1 (s)": "35.73",
