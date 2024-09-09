@@ -1,7 +1,7 @@
 [
 	{
 		"Rang": 1,
-		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Nom du joueur": "Darkblue",
 		"Temps": "02 min 57.960",
 		"Temps intermédiaire1 (s)": "28.7",
 		"Temps intermédiaire2 (s)": "96.9",
@@ -34,17 +34,6 @@
 	},
 	{
 		"Rang": 4,
-		"Nom du joueur": "Darkblue",
-		"Temps": "03 min 34.410",
-		"Temps intermédiaire1 (s)": "30.81",
-		"Temps intermédiaire2 (s)": "118.24",
-		"Temps intermédiaire3 (s)": "156.82",
-		"Temps intermédiaire4 (s)": "213.33",
-		"Temps intermédiaire5 (s)": "242.03",
-		"Bonus temps (s)": "61"
-	},
-	{
-		"Rang": 5,
 		"Nom du joueur": "Wolkern721",
 		"Temps": "03 min 45.340",
 		"Temps intermédiaire1 (s)": "30.54",
@@ -55,7 +44,7 @@
 		"Bonus temps (s)": "40"
 	},
 	{
-		"Rang": 6,
+		"Rang": 5,
 		"Nom du joueur": "Noz",
 		"Temps": "03 min 52.990",
 		"Temps intermédiaire1 (s)": "30.87",
