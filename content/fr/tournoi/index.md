@@ -39,7 +39,7 @@ Pour assurer des duels équitables et spectaculaires, voici les règles à suivr
 
 3. **🛫Déroulement des Duels :** Les duels commencent avec le serveur en pause. Les deux pilotes se positionnent, choisissent leur avion parmi ceux disponibles, et le duel est lancé simultanément une fois qu'ils sont prêts.
 
-4. **⏳Victoire par Meilleur Temps :** Le gagnant du duel est le pilote qui réalise le meilleur temps sur le run. Si un joueur meurt pendant la course, l'adversaire remporte immédiatement le duel.
+4. **⏳Victoire par Meilleur Temps :** Le gagnant du duel est le pilote qui réalise le meilleur temps sur le run. Si un joueur meurt pendant la course, l'adversaire remporte immédiatement le duel. Si un joueur tue un autre joueur avec ses missiles, il est éliminé; les missiles doivent être utilisés uniquement contre les cibles air-air du parcours. En cas de collision en vol *accidentelle*, le duel est rejoué; le caractère accidentelle sera apprécié par les commentateurs du stream qui font offices d'arbitres. 
 
 5. **🎥Stream en Direct :** Chaque duel sera retransmis en direct, commenté par OuiOui et CoubyStark, pour une expérience spectaculaire tant pour les pilotes que pour les spectateurs. Attendez-vous à du suspens et des surprises...
 
