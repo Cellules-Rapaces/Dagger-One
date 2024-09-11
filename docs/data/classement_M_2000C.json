@@ -56,6 +56,17 @@
 	},
 	{
 		"Rang": 6,
+		"Nom du joueur": "[LD_E] Noz",
+		"Temps": "02 min 48.530",
+		"Temps intermédiaire1 (s)": "26.9",
+		"Temps intermédiaire2 (s)": "97.4",
+		"Temps intermédiaire3 (s)": "136.25",
+		"Temps intermédiaire4 (s)": "190.54",
+		"Temps intermédiaire5 (s)": "217.27",
+		"Bonus temps (s)": "82"
+	},
+	{
+		"Rang": 7,
 		"Nom du joueur": "VALTA",
 		"Temps": "03 min 19.310",
 		"Temps intermédiaire1 (s)": "29.76",
@@ -64,17 +75,6 @@
 		"Temps intermédiaire4 (s)": "201.39",
 		"Temps intermédiaire5 (s)": "224.15",
 		"Bonus temps (s)": "52"
-	},
-	{
-		"Rang": 7,
-		"Nom du joueur": "[LD_E] Noz",
-		"Temps": "03 min 29.660",
-		"Temps intermédiaire1 (s)": "28.92",
-		"Temps intermédiaire2 (s)": "106.14",
-		"Temps intermédiaire3 (s)": "149.14",
-		"Temps intermédiaire4 (s)": "208.29",
-		"Temps intermédiaire5 (s)": "235.77",
-		"Bonus temps (s)": "56"
 	},
 	{
 		"Rang": 8,
