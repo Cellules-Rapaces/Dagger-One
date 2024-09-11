@@ -34,6 +34,17 @@
 	},
 	{
 		"Rang": 4,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "02 min 54.680",
+		"Temps intermédiaire1 (s)": "27.4",
+		"Temps intermédiaire2 (s)": "100.79",
+		"Temps intermédiaire3 (s)": "133.2",
+		"Temps intermédiaire4 (s)": "186.76",
+		"Temps intermédiaire5 (s)": "209.29",
+		"Bonus temps (s)": "63"
+	},
+	{
+		"Rang": 5,
 		"Nom du joueur": "Valta",
 		"Temps": "03 min 13.790",
 		"Temps intermédiaire1 (s)": "27.28",
