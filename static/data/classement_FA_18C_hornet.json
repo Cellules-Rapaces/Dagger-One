@@ -23,6 +23,17 @@
 	},
 	{
 		"Rang": 3,
+		"Nom du joueur": "Eagle 3-4 | Virus",
+		"Temps": "03 min 01.810",
+		"Temps intermédiaire1 (s)": "25.73",
+		"Temps intermédiaire2 (s)": "94.65",
+		"Temps intermédiaire3 (s)": "128.24",
+		"Temps intermédiaire4 (s)": "188.21",
+		"Temps intermédiaire5 (s)": "214.31",
+		"Bonus temps (s)": "69"
+	},
+	{
+		"Rang": 4,
 		"Nom du joueur": "Virus",
 		"Temps": "03 min 02.170",
 		"Temps intermédiaire1 (s)": "25.94",
@@ -33,7 +44,7 @@
 		"Bonus temps (s)": "71"
 	},
 	{
-		"Rang": 4,
+		"Rang": 5,
 		"Nom du joueur": "Nyltii",
 		"Temps": "03 min 06.690",
 		"Temps intermédiaire1 (s)": "27.55",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "77"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "03 min 10.630",
 		"Temps intermédiaire1 (s)": "30.49",
@@ -55,7 +66,7 @@
 		"Bonus temps (s)": "76"
 	},
 	{
-		"Rang": 6,
+		"Rang": 7,
 		"Nom du joueur": "Madmat",
 		"Temps": "03 min 11.550",
 		"Temps intermédiaire1 (s)": "27.44",
@@ -64,17 +75,6 @@
 		"Temps intermédiaire4 (s)": "196.07",
 		"Temps intermédiaire5 (s)": "220.38",
 		"Bonus temps (s)": "60"
-	},
-	{
-		"Rang": 7,
-		"Nom du joueur": "Eagle 3-4 | Virus",
-		"Temps": "03 min 17.070",
-		"Temps intermédiaire1 (s)": "25.8",
-		"Temps intermédiaire2 (s)": "94.46",
-		"Temps intermédiaire3 (s)": "130.35",
-		"Temps intermédiaire4 (s)": "191.93",
-		"Temps intermédiaire5 (s)": "218.99",
-		"Bonus temps (s)": "59"
 	},
 	{
 		"Rang": 8,
