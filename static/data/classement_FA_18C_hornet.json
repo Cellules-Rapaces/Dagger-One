@@ -89,17 +89,6 @@
 	},
 	{
 		"Rang": 9,
-		"Nom du joueur": "Clara 1-1 | Psycho",
-		"Temps": "03 min 48.590",
-		"Temps intermédiaire1 (s)": "29.04",
-		"Temps intermédiaire2 (s)": "105.47",
-		"Temps intermédiaire3 (s)": "149.34",
-		"Temps intermédiaire4 (s)": "208.16",
-		"Temps intermédiaire5 (s)": "237.16",
-		"Bonus temps (s)": "47"
-	},
-	{
-		"Rang": 10,
 		"Nom du joueur": "R2D2",
 		"Temps": "03 min 48.620",
 		"Temps intermédiaire1 (s)": "27.41",
@@ -110,7 +99,7 @@
 		"Bonus temps (s)": "52"
 	},
 	{
-		"Rang": 11,
+		"Rang": 10,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 52.420",
 		"Temps intermédiaire1 (s)": "27.26",
@@ -121,7 +110,7 @@
 		"Bonus temps (s)": "75"
 	},
 	{
-		"Rang": 12,
+		"Rang": 11,
 		"Nom du joueur": "Noz",
 		"Temps": "04 min 14.720",
 		"Temps intermédiaire1 (s)": "27.5",
