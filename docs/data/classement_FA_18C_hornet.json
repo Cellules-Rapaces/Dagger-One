@@ -78,6 +78,17 @@
 	},
 	{
 		"Rang": 8,
+		"Nom du joueur": "[EA11]-R2D2",
+		"Temps": "03 min 19.870",
+		"Temps intermédiaire1 (s)": "27.59",
+		"Temps intermédiaire2 (s)": "104.09",
+		"Temps intermédiaire3 (s)": "144.13",
+		"Temps intermédiaire4 (s)": "202.41",
+		"Temps intermédiaire5 (s)": "231.12",
+		"Bonus temps (s)": "62"
+	},
+	{
+		"Rang": 9,
 		"Nom du joueur": "Zanck'",
 		"Temps": "03 min 20.830",
 		"Temps intermédiaire1 (s)": "27.93",
@@ -88,7 +99,7 @@
 		"Bonus temps (s)": "62"
 	},
 	{
-		"Rang": 9,
+		"Rang": 10,
 		"Nom du joueur": "Psycho",
 		"Temps": "03 min 24.150",
 		"Temps intermédiaire1 (s)": "28.29",
@@ -97,17 +108,6 @@
 		"Temps intermédiaire4 (s)": "203.51",
 		"Temps intermédiaire5 (s)": "229.58",
 		"Bonus temps (s)": "59"
-	},
-	{
-		"Rang": 10,
-		"Nom du joueur": "[EA11]-R2D2",
-		"Temps": "03 min 29.630",
-		"Temps intermédiaire1 (s)": "27.45",
-		"Temps intermédiaire2 (s)": "101.71",
-		"Temps intermédiaire3 (s)": "139.27",
-		"Temps intermédiaire4 (s)": "197.17",
-		"Temps intermédiaire5 (s)": "226",
-		"Bonus temps (s)": "47"
 	},
 	{
 		"Rang": 11,
