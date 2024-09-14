@@ -45,6 +45,17 @@
 	},
 	{
 		"Rang": 5,
+		"Nom du joueur": "[CR] Wolkern721",
+		"Temps": "03 min 16.720",
+		"Temps intermédiaire1 (s)": "26.43",
+		"Temps intermédiaire2 (s)": "93.81",
+		"Temps intermédiaire3 (s)": "125.84",
+		"Temps intermédiaire4 (s)": "179.45",
+		"Temps intermédiaire5 (s)": "204.7",
+		"Bonus temps (s)": "41"
+	},
+	{
+		"Rang": 6,
 		"Nom du joueur": "Cirrus 2-5 | FaKitZ",
 		"Temps": "03 min 22.720",
 		"Temps intermédiaire1 (s)": "26.77",
@@ -53,16 +64,5 @@
 		"Temps intermédiaire4 (s)": "187.91",
 		"Temps intermédiaire5 (s)": "216.49",
 		"Bonus temps (s)": "51"
-	},
-	{
-		"Rang": 6,
-		"Nom du joueur": "[CR] Wolkern721",
-		"Temps": "03 min 30.950",
-		"Temps intermédiaire1 (s)": "26.63",
-		"Temps intermédiaire2 (s)": "92.98",
-		"Temps intermédiaire3 (s)": "132.39",
-		"Temps intermédiaire4 (s)": "194.59",
-		"Temps intermédiaire5 (s)": "223.4",
-		"Bonus temps (s)": "44"
 	}
 ]
