@@ -67,17 +67,6 @@
 	},
 	{
 		"Rang": 7,
-		"Nom du joueur": "Rickey_",
-		"Temps": "03 min 10.720",
-		"Temps intermédiaire1 (s)": "28.29",
-		"Temps intermédiaire2 (s)": "102.79",
-		"Temps intermédiaire3 (s)": "141.09",
-		"Temps intermédiaire4 (s)": "202.36",
-		"Temps intermédiaire5 (s)": "229.09",
-		"Bonus temps (s)": "72"
-	},
-	{
-		"Rang": 8,
 		"Nom du joueur": "VALTA",
 		"Temps": "03 min 19.310",
 		"Temps intermédiaire1 (s)": "29.76",
@@ -86,6 +75,17 @@
 		"Temps intermédiaire4 (s)": "201.39",
 		"Temps intermédiaire5 (s)": "224.15",
 		"Bonus temps (s)": "52"
+	},
+	{
+		"Rang": 8,
+		"Nom du joueur": "Rickey_",
+		"Temps": "03 min 30.370",
+		"Temps intermédiaire1 (s)": "28.24",
+		"Temps intermédiaire2 (s)": "102.01",
+		"Temps intermédiaire3 (s)": "144.94",
+		"Temps intermédiaire4 (s)": "210.73",
+		"Temps intermédiaire5 (s)": "242.73",
+		"Bonus temps (s)": "69"
 	},
 	{
 		"Rang": 9,
@@ -100,18 +100,18 @@
 	},
 	{
 		"Rang": 10,
-		"Nom du joueur": "CR | OuiOui",
-		"Temps": "04 min 23.390",
-		"Temps intermédiaire1 (s)": "26.94",
-		"Temps intermédiaire2 (s)": "98.07",
-		"Temps intermédiaire3 (s)": "141.07",
-		"Temps intermédiaire4 (s)": "206.94",
-		"Temps intermédiaire5 (s)": "234.61",
-		"Bonus temps (s)": "6"
+		"Nom du joueur": "VirOuiOui",
+		"Temps": "04 min 35.340",
+		"Temps intermédiaire1 (s)": "26.48",
+		"Temps intermédiaire2 (s)": "97.17",
+		"Temps intermédiaire3 (s)": "136.03",
+		"Temps intermédiaire4 (s)": "243.29",
+		"Temps intermédiaire5 (s)": "275.98",
+		"Bonus temps (s)": "41"
 	},
 	{
 		"Rang": 11,
-		"Nom du joueur": "RF3-6 ChrisAngel96",
+		"Nom du joueur": "ChrisAngel96",
 		"Temps": "04 min 46.280",
 		"Temps intermédiaire1 (s)": "29.95",
 		"Temps intermédiaire2 (s)": "118.3",
