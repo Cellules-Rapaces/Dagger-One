@@ -23,6 +23,17 @@
 	},
 	{
 		"Rang": 3,
+		"Nom du joueur": "Eagle 3-4 | Virus",
+		"Temps": "02 min 58.760",
+		"Temps intermédiaire1 (s)": "27.95",
+		"Temps intermédiaire2 (s)": "98.36",
+		"Temps intermédiaire3 (s)": "132.93",
+		"Temps intermédiaire4 (s)": "196.9",
+		"Temps intermédiaire5 (s)": "223.75",
+		"Bonus temps (s)": "82"
+	},
+	{
+		"Rang": 4,
 		"Nom du joueur": "Virus",
 		"Temps": "03 min 02.170",
 		"Temps intermédiaire1 (s)": "25.94",
@@ -33,7 +44,7 @@
 		"Bonus temps (s)": "71"
 	},
 	{
-		"Rang": 4,
+		"Rang": 5,
 		"Nom du joueur": "Nyltii",
 		"Temps": "03 min 06.690",
 		"Temps intermédiaire1 (s)": "27.55",
@@ -42,17 +53,6 @@
 		"Temps intermédiaire4 (s)": "204.59",
 		"Temps intermédiaire5 (s)": "232.51",
 		"Bonus temps (s)": "77"
-	},
-	{
-		"Rang": 5,
-		"Nom du joueur": "Eagle 3-4 | Virus",
-		"Temps": "03 min 06.790",
-		"Temps intermédiaire1 (s)": "27.57",
-		"Temps intermédiaire2 (s)": "97.99",
-		"Temps intermédiaire3 (s)": "134.02",
-		"Temps intermédiaire4 (s)": "196.28",
-		"Temps intermédiaire5 (s)": "223.05",
-		"Bonus temps (s)": "72"
 	},
 	{
 		"Rang": 6,
