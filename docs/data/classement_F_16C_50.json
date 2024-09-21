@@ -34,6 +34,17 @@
 	},
 	{
 		"Rang": 4,
+		"Nom du joueur": "Cirrus 2-5 | FaKitZ",
+		"Temps": "02 min 57.630",
+		"Temps intermédiaire1 (s)": "26.61",
+		"Temps intermédiaire2 (s)": "92.51",
+		"Temps intermédiaire3 (s)": "125.51",
+		"Temps intermédiaire4 (s)": "184.81",
+		"Temps intermédiaire5 (s)": "207.03",
+		"Bonus temps (s)": "70"
+	},
+	{
+		"Rang": 5,
 		"Nom du joueur": "Valta",
 		"Temps": "03 min 13.790",
 		"Temps intermédiaire1 (s)": "27.28",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "71"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "FaKitZ",
 		"Temps": "03 min 17.730",
 		"Temps intermédiaire1 (s)": "26.93",
