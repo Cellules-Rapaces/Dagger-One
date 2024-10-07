@@ -67,6 +67,17 @@
 	},
 	{
 		"Rang": 7,
+		"Nom du joueur": "Psycho",
+		"Temps": "03 min 19.650",
+		"Temps intermédiaire1 (s)": "31.96",
+		"Temps intermédiaire2 (s)": "111.37",
+		"Temps intermédiaire3 (s)": "150.18",
+		"Temps intermédiaire4 (s)": "212.93",
+		"Temps intermédiaire5 (s)": "242.22",
+		"Bonus temps (s)": "79"
+	},
+	{
+		"Rang": 8,
 		"Nom du joueur": "Zanck'",
 		"Temps": "03 min 20.830",
 		"Temps intermédiaire1 (s)": "27.93",
@@ -75,17 +86,6 @@
 		"Temps intermédiaire4 (s)": "200.92",
 		"Temps intermédiaire5 (s)": "227.31",
 		"Bonus temps (s)": "62"
-	},
-	{
-		"Rang": 8,
-		"Nom du joueur": "Psycho",
-		"Temps": "03 min 24.150",
-		"Temps intermédiaire1 (s)": "28.29",
-		"Temps intermédiaire2 (s)": "104.94",
-		"Temps intermédiaire3 (s)": "143.67",
-		"Temps intermédiaire4 (s)": "203.51",
-		"Temps intermédiaire5 (s)": "229.58",
-		"Bonus temps (s)": "59"
 	},
 	{
 		"Rang": 9,
