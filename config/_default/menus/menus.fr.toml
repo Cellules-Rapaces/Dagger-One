@@ -115,11 +115,6 @@
   url = "/resultats/classements/tous_les_chronos"
   parent = "resultats"
 
-[[main]]
-  name = "📹 Tacviews"
-  weight = 200
-  url = "/tacviews/"
-
 [[resultats]]
   name = "Classements"
   weight = 2
