@@ -9,10 +9,28 @@
   weight = 10
 
 [[main]]
-  name = "🥇 Tournoi Duel"
-  url = "/tournoi/"
-  identifier = "tournoi"
+  name = "🥇 Tournois Duels"
+  url = "/tournois/"
+  identifier = "tournois"
   weight = 15
+
+[[main]]
+  name = "Règles"
+  url = "/tournois/Regles"
+  parent = "tournois"
+  weight = 16
+
+[[main]]
+  name = "Tournoi 24-25 #1"
+  url = "/tournois/24-25/01"
+  parent = "tournois"
+  weight = 17
+
+[[main]]
+  name = "Tournoi 24-25 #2"
+  url = "/tournois/24-25/02"
+  parent = "tournois"
+  weight = 17
 
 [[main]]
   name = "🏁 Résultats"

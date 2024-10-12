@@ -1,5 +1,5 @@
 ---
-title: "Tournoi Duel"
+title: "Tournois Duels"
 description: "Présentation de l'event tournoi Dagger One Duel, par Coubystark."
 date: 2024-09-07T07:49:55+00:00
 lastmod: 2024-09-07T07:49:55+00:00
@@ -9,7 +9,9 @@ images: []
 
 # **🏆Tournoi Duel DaggerOne : Relevez le Défi Ultime !**
 
-**🚀Êtes-vous prêt à prouver que vous êtes le pilote le plus rapide et le plus audacieux ?** Le Tournoi Duel de DaggerOne est un événement unique, réservé aux meilleurs pilotes du canyon run. Préparez-vous pour un après-midi de duels intenses, le samedi 14 septembre, où chaque seconde compte et chaque erreur peut être fatale. Rejoignez-nous pour cette compétition exclusive, diffusée en direct sur la chaîne Twitch de l'[association Armée de l'Air et de l'Espace Esport et Gaming](https://aaeeg.fr) par OuiOui et CoubyStark !🎥
+**🚀Êtes-vous prêt à prouver que vous êtes le pilote le plus rapide et le plus audacieux ?** Le Tournoi Duel de DaggerOne est un événement unique, réservé aux meilleurs pilotes du canyon run. Préparez-vous pour des duels intenses sur la saison 2024-2025, où chaque seconde compte et chaque erreur peut être fatale.
+
+Rejoignez-nous pour cette compétition exclusive, diffusée en direct sur la chaîne Twitch de l'[association Armée de l'Air et de l'Espace Esport et Gaming](https://aaeeg.fr) par OuiOui et CoubyStark !🎥
 
 ## **Pourquoi Participer au Tournoi Duel DaggerOne ? 🤔**
 
@@ -27,7 +29,7 @@ Pour avoir une chance de participer à ce tournoi exceptionnel, les pilotes doiv
 
 1. **⏱️Chrono sur DaggerOne Solo :** Avoir réalisé au moins un temps enregistré sur le parcours solo de DaggerOne.
 2. **📝Inscription :** Remplir le formulaire d'inscription disponible via **[ce lien](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.
-3. **📅Disponibilité le 14 septembre :** Être présent et disponible l'après-midi du tournoi pour participer aux duels.
+3. **📅Disponibilité le 14 septembre :** Être présent et disponible lors du créneau prévu pour le tournoi.
 
 ## **Règles Spécifiques du Tournoi Duel ⚔️**
 
@@ -50,3 +52,5 @@ Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre
 ---
 
 *📣 Pour plus d'informations et pour vous inscrire, lien vers **[le formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.*
+
+# Date du prochain Tournoi : **📅mercredi 20 novembre 2024 à partir de 21h00**
