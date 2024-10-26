@@ -45,6 +45,8 @@ Pour assurer des duels équitables et spectaculaires, voici les règles à suivr
 
 5. **🎥Stream en Direct :** Chaque duel sera retransmis en direct, commenté par OuiOui et CoubyStark, pour une expérience spectaculaire tant pour les pilotes que pour les spectateurs. Attendez-vous à du suspens et des surprises...
 
+6. **🏁Hauteur de Passage sur les Gates :** Contrairement au défi solo, en cas de passage au-dessus de **300 ft** sur une gate, une pénalité de **40 secondes** est appliquée sur le chrono. Cela permet de maintenir l'intérêt du duel jusqu'au bout sans casser le rythme des courses avec des arrêts prématurés dus à des passages trop hauts nécessitant un demi-tour.
+
 ## **Rejoignez l'Aventure DaggerOne ! 🚀**
 
 Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre du Tournoi Duel DaggerOne. Inscrivez-vous, affûtez vos sticks, et préparez-vous à entrer dans l'arène le samedi 14 septembre. **Qui sera le pilote le plus rapide ? Qui dominera le canyon ? Le défi est lancé !**
