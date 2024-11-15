@@ -49,10 +49,10 @@ Pour assurer des duels équitables et spectaculaires, voici les règles à suivr
 
 ## **Rejoignez l'Aventure DaggerOne ! 🚀**
 
-Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre du Tournoi Duel DaggerOne. Inscrivez-vous, affûtez vos sticks, et préparez-vous à entrer dans l'arène le samedi 14 septembre. **Qui sera le pilote le plus rapide ? Qui dominera le canyon ? Le défi est lancé !**
+Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre du Tournoi Duel DaggerOne. Inscrivez-vous, affûtez vos sticks, et préparez-vous à entrer dans l'arène. **Qui sera le pilote le plus rapide ? Qui dominera le canyon ? Le défi est lancé !**
 
 ---
 
 *📣 Pour plus d'informations et pour vous inscrire, lien vers **[le formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.*
 
-# Date du prochain Tournoi : **📅mercredi 20 novembre 2024 à partir de 21h00**
+# Date du prochain Tournoi : **📅mercredi 18 décembre 2024 à partir de 21h00**
