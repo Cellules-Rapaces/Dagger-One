@@ -89,6 +89,17 @@
 	},
 	{
 		"Rang": 9,
+		"Nom du joueur": "Kervinou",
+		"Temps": "03 min 37.460",
+		"Temps intermédiaire1 (s)": "25.43",
+		"Temps intermédiaire2 (s)": "99.97",
+		"Temps intermédiaire3 (s)": "137.18",
+		"Temps intermédiaire4 (s)": "195.01",
+		"Temps intermédiaire5 (s)": "221.46",
+		"Bonus temps (s)": "34"
+	},
+	{
+		"Rang": 10,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 19.700",
 		"Temps intermédiaire1 (s)": "32.6",
@@ -99,7 +110,7 @@
 		"Bonus temps (s)": "47"
 	},
 	{
-		"Rang": 10,
+		"Rang": 11,
 		"Nom du joueur": "ChrisAngel96",
 		"Temps": "04 min 46.280",
 		"Temps intermédiaire1 (s)": "29.95",
