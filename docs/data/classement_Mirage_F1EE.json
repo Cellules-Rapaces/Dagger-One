@@ -23,6 +23,17 @@
 	},
 	{
 		"Rang": 3,
+		"Nom du joueur": "VALTA",
+		"Temps": "03 min 23.860",
+		"Temps intermédiaire1 (s)": "30.66",
+		"Temps intermédiaire2 (s)": "102.83",
+		"Temps intermédiaire3 (s)": "145.34",
+		"Temps intermédiaire4 (s)": "202.66",
+		"Temps intermédiaire5 (s)": "231.69",
+		"Bonus temps (s)": "61"
+	},
+	{
+		"Rang": 4,
 		"Nom du joueur": "Asta☠",
 		"Temps": "03 min 27.030",
 		"Temps intermédiaire1 (s)": "28.12",
@@ -33,7 +44,7 @@
 		"Bonus temps (s)": "66"
 	},
 	{
-		"Rang": 4,
+		"Rang": 5,
 		"Nom du joueur": "Wolkern721",
 		"Temps": "03 min 45.340",
 		"Temps intermédiaire1 (s)": "30.54",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "40"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "Noz",
 		"Temps": "03 min 52.990",
 		"Temps intermédiaire1 (s)": "30.87",
@@ -55,7 +66,7 @@
 		"Bonus temps (s)": "55"
 	},
 	{
-		"Rang": 6,
+		"Rang": 7,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 52.700",
 		"Temps intermédiaire1 (s)": "30.2",
