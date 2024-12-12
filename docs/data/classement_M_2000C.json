@@ -122,6 +122,17 @@
 	},
 	{
 		"Rang": 12,
+		"Nom du joueur": "Psycho",
+		"Temps": "03 min 38.290",
+		"Temps intermédiaire1 (s)": "30.35",
+		"Temps intermédiaire2 (s)": "103.09",
+		"Temps intermédiaire3 (s)": "140.12",
+		"Temps intermédiaire4 (s)": "191.41",
+		"Temps intermédiaire5 (s)": "219",
+		"Bonus temps (s)": "34"
+	},
+	{
+		"Rang": 13,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 19.700",
 		"Temps intermédiaire1 (s)": "32.6",
@@ -132,7 +143,7 @@
 		"Bonus temps (s)": "47"
 	},
 	{
-		"Rang": 13,
+		"Rang": 14,
 		"Nom du joueur": "ChrisAngel96",
 		"Temps": "04 min 46.280",
 		"Temps intermédiaire1 (s)": "29.95",
