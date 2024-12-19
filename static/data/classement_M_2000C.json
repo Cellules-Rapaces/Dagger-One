@@ -89,6 +89,17 @@
 	},
 	{
 		"Rang": 9,
+		"Nom du joueur": "Psycho",
+		"Temps": "03 min 27.950",
+		"Temps intermédiaire1 (s)": "29.34",
+		"Temps intermédiaire2 (s)": "103.78",
+		"Temps intermédiaire3 (s)": "141.65",
+		"Temps intermédiaire4 (s)": "202.25",
+		"Temps intermédiaire5 (s)": "228.13",
+		"Bonus temps (s)": "53"
+	},
+	{
+		"Rang": 10,
 		"Nom du joueur": "Kervinou",
 		"Temps": "03 min 31.500",
 		"Temps intermédiaire1 (s)": "25.34",
@@ -97,17 +108,6 @@
 		"Temps intermédiaire4 (s)": "179.97",
 		"Temps intermédiaire5 (s)": "206.98",
 		"Bonus temps (s)": "31"
-	},
-	{
-		"Rang": 10,
-		"Nom du joueur": "Psycho",
-		"Temps": "03 min 38.290",
-		"Temps intermédiaire1 (s)": "30.35",
-		"Temps intermédiaire2 (s)": "103.09",
-		"Temps intermédiaire3 (s)": "140.12",
-		"Temps intermédiaire4 (s)": "191.41",
-		"Temps intermédiaire5 (s)": "219",
-		"Bonus temps (s)": "34"
 	},
 	{
 		"Rang": 11,
