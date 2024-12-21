@@ -1,0 +1,24 @@
+[
+	{
+		"Rang": 1,
+		"Nom du joueur": "Darkblue",
+		"Temps": "02 min 49.660",
+		"Temps intermédiaire1 (s)": "25.65",
+		"Temps intermédiaire2 (s)": "96.61",
+		"Temps intermédiaire3 (s)": "129.77",
+		"Temps intermédiaire4 (s)": "185.92",
+		"Temps intermédiaire5 (s)": "210.47",
+		"Bonus temps (s)": "77"
+	},
+	{
+		"Rang": 2,
+		"Nom du joueur": "Virus",
+		"Temps": "03 min 14.760",
+		"Temps intermédiaire1 (s)": "25.79",
+		"Temps intermédiaire2 (s)": "96.15",
+		"Temps intermédiaire3 (s)": "130.23",
+		"Temps intermédiaire4 (s)": "187.94",
+		"Temps intermédiaire5 (s)": "213.66",
+		"Bonus temps (s)": "53"
+	}
+]
