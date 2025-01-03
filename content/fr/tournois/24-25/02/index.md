@@ -12,9 +12,6 @@ images: []
 
 ![CoubyStark](/images/pilot_CoubyStark.jpg)
 
-Sa maîtrise des trajectoires et son habileté à maintenir la pression sur ses adversaires ont été impressionnantes tout au long de la compétition. Un grand bravo à Wolkern721 pour cette excellente performance qui a captivé le public !
-
-
 ## **📈Bracket 24-25 #2**
 Plongez au cœur de l'action avec le tableau de progression du tournoi. Chaque duel était une bataille acharnée, et le chemin vers la victoire de CoubyStark est une véritable épopée. Découvrez le parcours complet des participants :
 
@@ -28,14 +25,13 @@ Revivez chaque moment intense, chaque duel palpitant, et chaque retournement de 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nkaVi7lZZzY?si=005f-2N-tSoqIiI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 📊Performances et Statistiques Mémorables
+## 📊 Performances et Statistiques en Évolution
 
-Le premier tournoi Duel a été une véritable aventure, et bien que tous les pilotes n'aient pas réussi à terminer le parcours, chaque tentative a apporté son lot d'enseignements. Voici quelques faits marquants :
-- Temps moyen par run : Les pilotes ayant réussi à terminer le parcours ont enregistré un temps moyen de 3 minutes et 34 secondes. Un début prometteur qui montre le potentiel de cette compétition à se développer encore davantage.
-- Performances notables : Wolkern721 a réalisé le meilleur temps avec 3 minutes et 16 secondes, démontrant une parfaite maîtrise du F-16C Viper. Psycho et ChrisAngel96 ont également terminé le parcours, respectivement en 3 minutes 48 secondes et 4 minutes 46 secondes.
-- Choix d'avion : Les pilotes ont opté pour une variété d'appareils, dont le F/A-18C Hornet, le F-16C Viper, et le M-2000C. Le F-16C Viper s'est démarqué, menant Wolkern721 à la victoire.
+Le deuxième tournoi Duel de Canyon Run a marqué une progression notable par rapport au premier, tant sur les performances individuelles que sur la diversité des appareils utilisés. Les temps réalisés témoignent d’une meilleure maîtrise et d’une intensité accrue dans la compétition. CoubyStark s’est démarqué en remportant le tournoi avec un temps impressionnant de 2 minutes 40 secondes, surpassant le meilleur temps du premier tournoi (3 minutes 16 secondes par Wolkern721). Ce temps reflète un engagement et une précision remarquables, particulièrement avec le M-2000C, qui a gagné en popularité dans ce tournoi.
 
-Ce premier tournoi n'était qu'un début, et nous sommes impatients de voir des performances encore plus spectaculaires lors des prochaines éditions. L'expérience acquise par les pilotes cette fois-ci ne fera que renforcer leur détermination et leur habileté pour les défis à venir.
+Valta a également réalisé une performance mémorable avec un temps de 2 minutes 54 secondes, positionnant deux pilotes sous la barre des 3 minutes, un cap non atteint lors de la première édition. Madmat, toujours compétitif, a enregistré plusieurs runs rapides, dont un à 2 minutes 50 secondes, confirmant sa régularité parmi les meilleurs. Psycho et FaKitZ ont continué d’impressionner, tandis que des pilotes comme OuiOui et Galinette ont apporté de la diversité dans le choix des appareils, avec des essais sur le F-14B et le M-2000C.
+
+Cette édition démontre une courbe d’apprentissage positive pour les participants et une amélioration globale des performances. La richesse des données collectées promet des analyses plus approfondies, et l’on peut déjà s’attendre à un niveau encore plus élevé lors des prochaines éditions. La compétition s’affirme ainsi comme un rendez-vous incontournable pour les amateurs de précision et de vitesse.
 
 
 ## 💬 Rejoignez la Conversation !
