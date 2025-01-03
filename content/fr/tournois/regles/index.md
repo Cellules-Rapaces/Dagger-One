@@ -29,7 +29,15 @@ Pour avoir une chance de participer à ce tournoi exceptionnel, les pilotes doiv
 
 1. **⏱️Chrono sur DaggerOne Solo :** Avoir réalisé au moins un temps enregistré sur le parcours solo de DaggerOne.
 2. **📝Inscription :** Remplir le formulaire d'inscription disponible via **[ce lien](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.
-3. **📅Disponibilité sur un des tournois :** Être présent et disponible lors du créneau prévu pour un des tournois.
+3. **📅Disponibilité sur un des tournois :** Être présent et disponible lors du créneau prévu pour un des tournois de la saison.
+
+## **Tournois et Saison 🍂**
+
+La saison 2024-2025 va essayer de proposer les tournois sur un rythme mensuel.
+
+La saison se terminera par un tournoi Duel spécial 🏆Champions : les meilleurs duelistes s'affronteront pour un tournoi au Sommet !
+
+Des surprises sont en préparation pour cette grande finale... serrez bien les harnais !
 
 ## **Règles Spécifiques du Tournoi Duel ⚔️**
 
