@@ -18,7 +18,7 @@ Plongez au cœur de l'action avec le tableau de progression du tournoi. Chaque d
 <iframe src="https://challonge.com/fr/o5yal1v6/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 
-## **Replay du stream 🎥 Revivez les émotions du tout premier tournoi**
+## **Replay du stream 🎥 Revivez les émotions du deuxième tournoi**
 Vous avez manqué l'événement en direct ? Pas de souci !
 
 Revivez chaque moment intense, chaque duel palpitant, et chaque retournement de situation en regardant le replay du stream : 
