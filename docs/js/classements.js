@@ -10,7 +10,8 @@ $(document).ready(function () {
       "M-2000C",
       "AV8BNA",
       "F-4E-45MC",
-      "Su-27"
+      "Su-27",
+      "F-15ESE"
   ];
 
   function buildPodium(aircraftType) {

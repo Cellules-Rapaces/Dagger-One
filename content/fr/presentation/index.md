@@ -9,8 +9,6 @@ images: []
 
 Présentation du défi Dagger One, par Coubystark.
 
-{{< alert icon="⚠️" text="Attention, pour le moment le défi est proposé en version <strong>**BETA**</strong>. Certains aspects et équilibres sont encore en cours de définition. Il en résulte que les chronos actuels ne seront pas conservés. D'avance merci à tous les beta testeurs qui nous aideront à rendre ce challenge captivant !" />}}
-
 ## En bref
 
 Dagger One est une course reprenant l'esprit de la mission au coeur du film **Top Gun Maverick**.
@@ -33,6 +31,8 @@ La Porte finale est marquée par un fumigène rouge :
 Le parcours dans la vallée est balisé par des fumigènes verts entre les Portes, afin de ne pas se tromper de direction :
 
 ![Image fumigène vert](images/DO_fumi-vert.jpg)
+
+{{< alert icon="⚠️" text="Le passage d'une porte est valide pour une hauteur inférieure à <strong>**490 ft sol**</strong>." />}}
 
 La deuxième Porte se trouve au-dessus d'un pont.
 Un bonus de **20 secondes** est accordé en cas de passage sous le pont, et **25 secondes** si ce passage sous le pont se fait sur le dos.
