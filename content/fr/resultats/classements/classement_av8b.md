@@ -10,7 +10,7 @@ type: docs
 menu:
   resultats:
     parent: "classements"
-weight: 10
+weight: 40
 toc: true
 icon: "av8b-h"
 ---

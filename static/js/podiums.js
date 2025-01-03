@@ -11,7 +11,8 @@ var aircraftTypes = [
     "M-2000C",
     "AV8BNA",
     "F-4E_45MC",
-    "Su-27"
+    "Su-27",
+    "F-15ESE"
 ];
 
 // Chargement data de meilleurs temps pour chaque avion

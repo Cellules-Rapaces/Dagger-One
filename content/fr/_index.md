@@ -81,7 +81,7 @@ images: []
   <!-- Podium F15ESE -->
   <div class="col">
     <div class="card shadow-sm">
-      <img src="/images/Trophy_F15E.png" class="bd-placeholder-img card-img-top" height="100%">
+      <img src="/images/Trophy_F15.png" class="bd-placeholder-img card-img-top" height="100%">
       <div class="card-body">
         <p class="card-text">Le meilleur temps sur F-15E par : </p>
         <img class="FastestPlayer_F_15ESE_pic img-thumbnail rounded mx-auto d-block" src="/images/pilot_.jpg" height="100px" width="100px">

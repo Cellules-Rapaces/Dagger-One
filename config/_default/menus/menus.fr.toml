@@ -67,6 +67,13 @@
   parent = "resultats"
 
 [[main]]
+  name = "Classement F-15E"
+  weight = 65
+  pre = "f-15-h"
+  url = "/resultats/classements/classement_f15e"
+  parent = "resultats"
+
+[[main]]
   name = "Classement AV8B"
   weight = 70
   pre = "av8b-h"
