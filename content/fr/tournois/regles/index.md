@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-# **🏆Tournoi Duel DaggerOne : Relevez le Défi Ultime !**
+# **🏆Tournois Duel DaggerOne : Relevez le Défi Ultime !**
 
 **🚀Êtes-vous prêt à prouver que vous êtes le pilote le plus rapide et le plus audacieux ?** Le Tournoi Duel de DaggerOne est un événement unique, réservé aux meilleurs pilotes du canyon run. Préparez-vous pour des duels intenses sur la saison 2024-2025, où chaque seconde compte et chaque erreur peut être fatale.
 
@@ -29,7 +29,7 @@ Pour avoir une chance de participer à ce tournoi exceptionnel, les pilotes doiv
 
 1. **⏱️Chrono sur DaggerOne Solo :** Avoir réalisé au moins un temps enregistré sur le parcours solo de DaggerOne.
 2. **📝Inscription :** Remplir le formulaire d'inscription disponible via **[ce lien](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.
-3. **📅Disponibilité le 14 septembre :** Être présent et disponible lors du créneau prévu pour le tournoi.
+3. **📅Disponibilité sur un des tournois :** Être présent et disponible lors du créneau prévu pour un des tournois.
 
 ## **Règles Spécifiques du Tournoi Duel ⚔️**
 
@@ -41,11 +41,11 @@ Pour assurer des duels équitables et spectaculaires, voici les règles à suivr
 
 3. **🛫Déroulement des Duels :** Les duels commencent avec le serveur en pause. Les deux pilotes se positionnent, choisissent leur avion parmi ceux disponibles, et le duel est lancé simultanément une fois qu'ils sont prêts.
 
-4. **⏳Victoire par Meilleur Temps :** Le gagnant du duel est le pilote qui réalise le meilleur temps sur le run. Si un joueur meurt pendant la course, l'adversaire remporte immédiatement le duel. Si un joueur tue un autre joueur avec ses missiles, il est éliminé; les missiles doivent être utilisés uniquement contre les cibles air-air du parcours. En cas de collision en vol *accidentelle*, le duel est rejoué; le caractère accidentelle sera apprécié par les commentateurs du stream qui font offices d'arbitres. 
+4. **⏳Victoire par Meilleur Temps :** Le gagnant du duel est le pilote qui réalise le meilleur temps sur le run. Si un joueur meurt pendant la course, l'adversaire remporte immédiatement le duel. Si un joueur tue un autre joueur avec ses missiles, il est éliminé; les missiles doivent être utilisés uniquement contre les cibles air-air du parcours. En cas de collision en vol *accidentelle*, le duel est rejoué; le caractère accidentel sera apprécié par les commentateurs du stream qui font offices d'arbitres. 
 
 5. **🎥Stream en Direct :** Chaque duel sera retransmis en direct, commenté par OuiOui et CoubyStark, pour une expérience spectaculaire tant pour les pilotes que pour les spectateurs. Attendez-vous à du suspens et des surprises...
 
-6. **🏁Hauteur de Passage sur les Gates :** Contrairement au défi solo, en cas de passage au-dessus de **300 ft** sur une gate, une pénalité de **40 secondes** est appliquée sur le chrono. Cela permet de maintenir l'intérêt du duel jusqu'au bout sans casser le rythme des courses avec des arrêts prématurés dus à des passages trop hauts nécessitant un demi-tour.
+6. **🏁Hauteur de Passage sur les Gates :** Contrairement au défi solo, en cas de passage au-dessus de **490 ft** sur une gate, une pénalité de **40 secondes** est appliquée sur le chrono. Cela permet de maintenir l'intérêt du duel jusqu'au bout sans casser le rythme des courses avec des arrêts prématurés dus à des passages trop hauts nécessitant un demi-tour.
 
 ## **Rejoignez l'Aventure DaggerOne ! 🚀**
 
@@ -54,5 +54,3 @@ Ne manquez pas cette occasion unique de vous mesurer aux meilleurs dans le cadre
 ---
 
 *📣 Pour plus d'informations et pour vous inscrire, lien vers **[le formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.*
-
-# Date du prochain Tournoi : **📅mercredi 18 décembre 2024 à partir de 21h00**
