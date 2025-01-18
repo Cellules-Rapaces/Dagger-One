@@ -45,6 +45,17 @@
 	},
 	{
 		"Rang": 5,
+		"Nom du joueur": "[LD_E] Noz",
+		"Temps": "03 min 42.420",
+		"Temps intermédiaire1 (s)": "30.62",
+		"Temps intermédiaire2 (s)": "113.97",
+		"Temps intermédiaire3 (s)": "154.74",
+		"Temps intermédiaire4 (s)": "208.85",
+		"Temps intermédiaire5 (s)": "236.73",
+		"Bonus temps (s)": "46"
+	},
+	{
+		"Rang": 6,
 		"Nom du joueur": "Wolkern721",
 		"Temps": "03 min 45.340",
 		"Temps intermédiaire1 (s)": "30.54",
@@ -55,7 +66,7 @@
 		"Bonus temps (s)": "40"
 	},
 	{
-		"Rang": 6,
+		"Rang": 7,
 		"Nom du joueur": "Noz",
 		"Temps": "03 min 52.990",
 		"Temps intermédiaire1 (s)": "30.87",
@@ -66,7 +77,7 @@
 		"Bonus temps (s)": "55"
 	},
 	{
-		"Rang": 7,
+		"Rang": 8,
 		"Nom du joueur": "OuiOui",
 		"Temps": "04 min 52.700",
 		"Temps intermédiaire1 (s)": "30.2",
