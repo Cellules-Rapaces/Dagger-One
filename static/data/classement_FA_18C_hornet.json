@@ -34,6 +34,17 @@
 	},
 	{
 		"Rang": 4,
+		"Nom du joueur": "Boarder 2 | Mako",
+		"Temps": "02 min 53.480",
+		"Temps intermédiaire1 (s)": "28.11",
+		"Temps intermédiaire2 (s)": "102.08",
+		"Temps intermédiaire3 (s)": "135.66",
+		"Temps intermédiaire4 (s)": "196.25",
+		"Temps intermédiaire5 (s)": "220.43",
+		"Bonus temps (s)": "77"
+	},
+	{
+		"Rang": 5,
 		"Nom du joueur": "Virus",
 		"Temps": "02 min 58.760",
 		"Temps intermédiaire1 (s)": "27.95",
@@ -44,7 +55,7 @@
 		"Bonus temps (s)": "82"
 	},
 	{
-		"Rang": 5,
+		"Rang": 6,
 		"Nom du joueur": "Nyltii",
 		"Temps": "03 min 06.690",
 		"Temps intermédiaire1 (s)": "27.55",
@@ -53,17 +64,6 @@
 		"Temps intermédiaire4 (s)": "204.59",
 		"Temps intermédiaire5 (s)": "232.51",
 		"Bonus temps (s)": "77"
-	},
-	{
-		"Rang": 6,
-		"Nom du joueur": "Boarder 2 | Mako",
-		"Temps": "03 min 09.900",
-		"Temps intermédiaire1 (s)": "27.97",
-		"Temps intermédiaire2 (s)": "101.04",
-		"Temps intermédiaire3 (s)": "134.61",
-		"Temps intermédiaire4 (s)": "194.66",
-		"Temps intermédiaire5 (s)": "219.43",
-		"Bonus temps (s)": "63"
 	},
 	{
 		"Rang": 7,
