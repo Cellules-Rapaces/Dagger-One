@@ -56,6 +56,17 @@
 	},
 	{
 		"Rang": 6,
+		"Nom du joueur": "Boarder 2 | Mako",
+		"Temps": "03 min 09.900",
+		"Temps intermédiaire1 (s)": "27.97",
+		"Temps intermédiaire2 (s)": "101.04",
+		"Temps intermédiaire3 (s)": "134.61",
+		"Temps intermédiaire4 (s)": "194.66",
+		"Temps intermédiaire5 (s)": "219.43",
+		"Bonus temps (s)": "63"
+	},
+	{
+		"Rang": 7,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "03 min 10.630",
 		"Temps intermédiaire1 (s)": "30.49",
@@ -66,7 +77,7 @@
 		"Bonus temps (s)": "76"
 	},
 	{
-		"Rang": 7,
+		"Rang": 8,
 		"Nom du joueur": "Madmat",
 		"Temps": "03 min 11.550",
 		"Temps intermédiaire1 (s)": "27.44",
@@ -77,7 +88,7 @@
 		"Bonus temps (s)": "60"
 	},
 	{
-		"Rang": 8,
+		"Rang": 9,
 		"Nom du joueur": "Zanck'",
 		"Temps": "03 min 20.830",
 		"Temps intermédiaire1 (s)": "27.93",
@@ -86,17 +97,6 @@
 		"Temps intermédiaire4 (s)": "200.92",
 		"Temps intermédiaire5 (s)": "227.31",
 		"Bonus temps (s)": "62"
-	},
-	{
-		"Rang": 9,
-		"Nom du joueur": "Boarder 2 | Mako",
-		"Temps": "03 min 27.960",
-		"Temps intermédiaire1 (s)": "31.4",
-		"Temps intermédiaire2 (s)": "107.2",
-		"Temps intermédiaire3 (s)": "143.95",
-		"Temps intermédiaire4 (s)": "202.48",
-		"Temps intermédiaire5 (s)": "230.65",
-		"Bonus temps (s)": "57"
 	},
 	{
 		"Rang": 10,
