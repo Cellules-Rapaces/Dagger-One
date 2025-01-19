@@ -67,6 +67,17 @@
 	},
 	{
 		"Rang": 7,
+		"Nom du joueur": "Boarder 2 | Mako",
+		"Temps": "03 min 08.810",
+		"Temps intermédiaire1 (s)": "27.34",
+		"Temps intermédiaire2 (s)": "99.39",
+		"Temps intermédiaire3 (s)": "134.64",
+		"Temps intermédiaire4 (s)": "196.15",
+		"Temps intermédiaire5 (s)": "222.16",
+		"Bonus temps (s)": "66"
+	},
+	{
+		"Rang": 8,
 		"Nom du joueur": "Valta",
 		"Temps": "03 min 13.790",
 		"Temps intermédiaire1 (s)": "27.28",
@@ -75,16 +86,5 @@
 		"Temps intermédiaire4 (s)": "198.08",
 		"Temps intermédiaire5 (s)": "228.87",
 		"Bonus temps (s)": "71"
-	},
-	{
-		"Rang": 8,
-		"Nom du joueur": "Boarder 2 | Mako",
-		"Temps": "03 min 26.190",
-		"Temps intermédiaire1 (s)": "28.78",
-		"Temps intermédiaire2 (s)": "100.09",
-		"Temps intermédiaire3 (s)": "132.24",
-		"Temps intermédiaire4 (s)": "187.81",
-		"Temps intermédiaire5 (s)": "212.4",
-		"Bonus temps (s)": "37"
 	}
 ]
