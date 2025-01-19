@@ -56,6 +56,17 @@
 	},
 	{
 		"Rang": 6,
+		"Nom du joueur": "Boarder 2 | Mako",
+		"Temps": "02 min 58.600",
+		"Temps intermédiaire1 (s)": "27.63",
+		"Temps intermédiaire2 (s)": "101.74",
+		"Temps intermédiaire3 (s)": "140.46",
+		"Temps intermédiaire4 (s)": "196.53",
+		"Temps intermédiaire5 (s)": "223.11",
+		"Bonus temps (s)": "75"
+	},
+	{
+		"Rang": 7,
 		"Nom du joueur": "Boarder 1-1 | SPiiTCH",
 		"Temps": "03 min 08.280",
 		"Temps intermédiaire1 (s)": "26.86",
@@ -64,17 +75,6 @@
 		"Temps intermédiaire4 (s)": "190.01",
 		"Temps intermédiaire5 (s)": "215.05",
 		"Bonus temps (s)": "57"
-	},
-	{
-		"Rang": 7,
-		"Nom du joueur": "Boarder 2 | Mako",
-		"Temps": "03 min 08.810",
-		"Temps intermédiaire1 (s)": "27.34",
-		"Temps intermédiaire2 (s)": "99.39",
-		"Temps intermédiaire3 (s)": "134.64",
-		"Temps intermédiaire4 (s)": "196.15",
-		"Temps intermédiaire5 (s)": "222.16",
-		"Bonus temps (s)": "66"
 	},
 	{
 		"Rang": 8,
