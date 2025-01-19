@@ -45,6 +45,17 @@
 	},
 	{
 		"Rang": 5,
+		"Nom du joueur": "Boarder 2 | Mako",
+		"Temps": "02 min 53.360",
+		"Temps intermédiaire1 (s)": "26.84",
+		"Temps intermédiaire2 (s)": "95.98",
+		"Temps intermédiaire3 (s)": "128.33",
+		"Temps intermédiaire4 (s)": "174.58",
+		"Temps intermédiaire5 (s)": "200.32",
+		"Bonus temps (s)": "57"
+	},
+	{
+		"Rang": 6,
 		"Nom du joueur": "FaKitZ",
 		"Temps": "02 min 57.630",
 		"Temps intermédiaire1 (s)": "26.61",
@@ -53,17 +64,6 @@
 		"Temps intermédiaire4 (s)": "184.81",
 		"Temps intermédiaire5 (s)": "207.03",
 		"Bonus temps (s)": "70"
-	},
-	{
-		"Rang": 6,
-		"Nom du joueur": "Boarder 2 | Mako",
-		"Temps": "02 min 58.600",
-		"Temps intermédiaire1 (s)": "27.63",
-		"Temps intermédiaire2 (s)": "101.74",
-		"Temps intermédiaire3 (s)": "140.46",
-		"Temps intermédiaire4 (s)": "196.53",
-		"Temps intermédiaire5 (s)": "223.11",
-		"Bonus temps (s)": "75"
 	},
 	{
 		"Rang": 7,
