@@ -155,6 +155,17 @@
 	},
 	{
 		"Rang": 15,
+		"Nom du joueur": "Boarder 1-3 | Hot Kebab",
+		"Temps": "04 min 22.220",
+		"Temps intermédiaire1 (s)": "29.24",
+		"Temps intermédiaire2 (s)": "115.63",
+		"Temps intermédiaire3 (s)": "157.99",
+		"Temps intermédiaire4 (s)": "221.93",
+		"Temps intermédiaire5 (s)": "253.58",
+		"Bonus temps (s)": "24"
+	},
+	{
+		"Rang": 16,
 		"Nom du joueur": "gooner",
 		"Temps": "04 min 41.490",
 		"Temps intermédiaire1 (s)": "30",
@@ -163,16 +174,5 @@
 		"Temps intermédiaire4 (s)": "224.59",
 		"Temps intermédiaire5 (s)": "257.01",
 		"Bonus temps (s)": "15"
-	},
-	{
-		"Rang": 16,
-		"Nom du joueur": "Boarder 1-3 | Hot Kebab",
-		"Temps": "05 min 07.440",
-		"Temps intermédiaire1 (s)": "29.4",
-		"Temps intermédiaire2 (s)": "122.06",
-		"Temps intermédiaire3 (s)": "169.25",
-		"Temps intermédiaire4 (s)": "256.68",
-		"Temps intermédiaire5 (s)": "292.47",
-		"Bonus temps (s)": "25"
 	}
 ]
