@@ -100,6 +100,17 @@
 	},
 	{
 		"Rang": 10,
+		"Nom du joueur": "SERAPH 1-1 Galinette",
+		"Temps": "03 min 20.600",
+		"Temps intermédiaire1 (s)": "28.57",
+		"Temps intermédiaire2 (s)": "98.46",
+		"Temps intermédiaire3 (s)": "134.91",
+		"Temps intermédiaire4 (s)": "189.12",
+		"Temps intermédiaire5 (s)": "215.35",
+		"Bonus temps (s)": "43"
+	},
+	{
+		"Rang": 11,
 		"Nom du joueur": "Psycho",
 		"Temps": "03 min 27.950",
 		"Temps intermédiaire1 (s)": "29.34",
@@ -110,7 +121,7 @@
 		"Bonus temps (s)": "53"
 	},
 	{
-		"Rang": 11,
+		"Rang": 12,
 		"Nom du joueur": "Kervinou",
 		"Temps": "03 min 31.500",
 		"Temps intermédiaire1 (s)": "25.34",
@@ -121,7 +132,7 @@
 		"Bonus temps (s)": "31"
 	},
 	{
-		"Rang": 12,
+		"Rang": 13,
 		"Nom du joueur": "Galinette",
 		"Temps": "03 min 42.210",
 		"Temps intermédiaire1 (s)": "27.13",
@@ -132,7 +143,7 @@
 		"Bonus temps (s)": "40"
 	},
 	{
-		"Rang": 13,
+		"Rang": 14,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 59.160",
 		"Temps intermédiaire1 (s)": "29.46",
@@ -143,7 +154,7 @@
 		"Bonus temps (s)": "44"
 	},
 	{
-		"Rang": 14,
+		"Rang": 15,
 		"Nom du joueur": "ChrisAngel96",
 		"Temps": "04 min 46.280",
 		"Temps intermédiaire1 (s)": "29.95",
