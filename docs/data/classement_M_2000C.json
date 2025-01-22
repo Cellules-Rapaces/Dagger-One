@@ -45,6 +45,17 @@
 	},
 	{
 		"Rang": 5,
+		"Nom du joueur": "[LD_E] Noz",
+		"Temps": "02 min 33.480",
+		"Temps intermédiaire1 (s)": "28.98",
+		"Temps intermédiaire2 (s)": "101.35",
+		"Temps intermédiaire3 (s)": "136.14",
+		"Temps intermédiaire4 (s)": "189.43",
+		"Temps intermédiaire5 (s)": "213.32",
+		"Bonus temps (s)": "89"
+	},
+	{
+		"Rang": 6,
 		"Nom du joueur": "Nyltii",
 		"Temps": "02 min 35.670",
 		"Temps intermédiaire1 (s)": "25.45",
@@ -53,17 +64,6 @@
 		"Temps intermédiaire4 (s)": "182.38",
 		"Temps intermédiaire5 (s)": "205.75",
 		"Bonus temps (s)": "78"
-	},
-	{
-		"Rang": 6,
-		"Nom du joueur": "[LD_E] Noz",
-		"Temps": "02 min 39.760",
-		"Temps intermédiaire1 (s)": "28.79",
-		"Temps intermédiaire2 (s)": "107.28",
-		"Temps intermédiaire3 (s)": "146.44",
-		"Temps intermédiaire4 (s)": "193.89",
-		"Temps intermédiaire5 (s)": "215.74",
-		"Bonus temps (s)": "83"
 	},
 	{
 		"Rang": 7,
