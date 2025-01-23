@@ -220,7 +220,7 @@ images: []
       <table id="table_MiG_21Bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_MiG_21Bis"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-mig21-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_mig_21bis"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-mig21-h"></span></a>
       </div>
     </div>
   </div>
