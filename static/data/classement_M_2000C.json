@@ -45,7 +45,7 @@
 	},
 	{
 		"Rang": 5,
-		"Nom du joueur": "[LD_E] Noz",
+		"Nom du joueur": "Noz",
 		"Temps": "02 min 33.480",
 		"Temps intermédiaire1 (s)": "28.98",
 		"Temps intermédiaire2 (s)": "101.35",
@@ -67,17 +67,6 @@
 	},
 	{
 		"Rang": 7,
-		"Nom du joueur": "Noz",
-		"Temps": "02 min 40.580",
-		"Temps intermédiaire1 (s)": "28.54",
-		"Temps intermédiaire2 (s)": "109.96",
-		"Temps intermédiaire3 (s)": "146.91",
-		"Temps intermédiaire4 (s)": "198.96",
-		"Temps intermédiaire5 (s)": "221.61",
-		"Bonus temps (s)": "89"
-	},
-	{
-		"Rang": 8,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "02 min 45.600",
 		"Temps intermédiaire1 (s)": "26.77",
@@ -88,8 +77,8 @@
 		"Bonus temps (s)": "68"
 	},
 	{
-		"Rang": 9,
-		"Nom du joueur": "SERAPH 1-1 Galinette",
+		"Rang": 8,
+		"Nom du joueur": "Galinette",
 		"Temps": "02 min 58.010",
 		"Temps intermédiaire1 (s)": "29.15",
 		"Temps intermédiaire2 (s)": "101.07",
@@ -99,7 +88,7 @@
 		"Bonus temps (s)": "65"
 	},
 	{
-		"Rang": 10,
+		"Rang": 9,
 		"Nom du joueur": "Rickey_",
 		"Temps": "03 min 15.310",
 		"Temps intermédiaire1 (s)": "29.34",
@@ -110,7 +99,7 @@
 		"Bonus temps (s)": "72"
 	},
 	{
-		"Rang": 11,
+		"Rang": 10,
 		"Nom du joueur": "Psycho",
 		"Temps": "03 min 27.950",
 		"Temps intermédiaire1 (s)": "29.34",
@@ -121,7 +110,7 @@
 		"Bonus temps (s)": "53"
 	},
 	{
-		"Rang": 12,
+		"Rang": 11,
 		"Nom du joueur": "Kervinou",
 		"Temps": "03 min 31.500",
 		"Temps intermédiaire1 (s)": "25.34",
@@ -132,18 +121,7 @@
 		"Bonus temps (s)": "31"
 	},
 	{
-		"Rang": 13,
-		"Nom du joueur": "Galinette",
-		"Temps": "03 min 42.210",
-		"Temps intermédiaire1 (s)": "27.13",
-		"Temps intermédiaire2 (s)": "103.95",
-		"Temps intermédiaire3 (s)": "143.77",
-		"Temps intermédiaire4 (s)": "201.44",
-		"Temps intermédiaire5 (s)": "229.5",
-		"Bonus temps (s)": "40"
-	},
-	{
-		"Rang": 14,
+		"Rang": 12,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 59.160",
 		"Temps intermédiaire1 (s)": "29.46",
@@ -154,7 +132,7 @@
 		"Bonus temps (s)": "44"
 	},
 	{
-		"Rang": 15,
+		"Rang": 13,
 		"Nom du joueur": "ChrisAngel96",
 		"Temps": "04 min 46.280",
 		"Temps intermédiaire1 (s)": "29.95",
