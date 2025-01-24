@@ -39,6 +39,12 @@
   weight = 17
 
 [[main]]
+  name = "Tournoi 24-25 #4"
+  url = "/tournois/24-25/04"
+  parent = "tournois"
+  weight = 17
+
+[[main]]
   name = "🏁 Résultats"
   url = "/resultats/classements/"
   identifier = "resultats"

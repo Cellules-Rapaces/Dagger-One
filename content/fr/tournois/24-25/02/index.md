@@ -35,6 +35,6 @@ Cette édition démontre une courbe d’apprentissage positive pour les particip
 
 
 ## 💬 Rejoignez la Conversation !
-Partagez vos impressions sur ce tout premier tournoi Duel ! Utilisez le hashtag #DaggerOneDuel sur les réseaux sociaux et faites partie de la communauté grandissante des pilotes qui repoussent leurs limites. Rejoignez les Discords Rapaces et AAEEG.
+Partagez vos impressions sur ce deuxième tournoi Duel ! Utilisez le hashtag #DaggerOneDuel sur les réseaux sociaux et faites partie de la communauté grandissante des pilotes qui repoussent leurs limites. Rejoignez les Discords Rapaces et AAEEG.
 
 Vous êtes prêt pour le prochain tournoi ? Inscrivez-vous dès maintenant et montrez ce dont vous êtes capable !

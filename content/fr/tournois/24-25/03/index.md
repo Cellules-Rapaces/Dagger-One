@@ -12,24 +12,17 @@ images: []
 
 ![Galinette](/images/pilot_.jpg)
 
-## 🗒️Inscriptions
-Afin de proposer un tournoi et un stream joué dans un temps adapté, le bracket de départ est limité à **8 places**.
+## **📈Bracket 24-25 #3**
+Plongez au cœur de l'action avec le tableau de progression du tournoi. Chaque duel était une bataille acharnée, et le chemin vers la victoire de CoubyStark est une véritable épopée. Découvrez le parcours complet des participants :
 
-Le seul critère de sélection pour voir son inscription validée, et d'avoir réalisé au moins une fois le parcours complet sur le challenge solo Dagger One.
+<iframe src="https://challonge.com/fr/ehar7zqm/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
-Pour les tournois de cette saison, y compris le prochain, la règle est simple : **premier inscrit... premier inscrit !**.
+## 📊 Performances et Statistiques en Évolution
 
-Seul le dernier tournoi de la saison sera limité aux 🏆Champions, mais nous n'y sommes pas encore...
-
-En attendant, inscrivez-vous à ce prochain tournoi Dagger One via **[ce formulaire online](https://docs.google.com/forms/d/e/1FAIpQLSf2d8nqlq4QlYt9BrjRO8frVR7GVAXM6z--FMO3QjeH6NoIwQ/viewform?usp=sf_link)**.
-
-## **📈Le Bracket 24-25 #3**
 *A venir*
 
-Pour toutes questions, passez par le Discord Rapace et rejoignez la communauté pour vous préparer à l'action à venir !
 
-## 📣Préparez-vous pour des Moments Épiques !
+## 💬 Rejoignez la Conversation !
+Partagez vos impressions sur ce troisième tournoi Duel ! Utilisez le hashtag #DaggerOneDuel sur les réseaux sociaux et faites partie de la communauté grandissante des pilotes qui repoussent leurs limites. Rejoignez les Discords Rapaces et AAEEG.
 
-Ce troisième tournoi est l'occasion pour chaque pilote de montrer ce qu'il a appris lors de la première édition et de se mesurer à de nouveaux défis. Les places sont limitées, donc ne manquez pas votre chance de participer. Chaque duel est une opportunité de repousser vos limites et d'améliorer vos compétences.
-
-Les moments forts et les rebondissements sont garantis, alors inscrivez-vous et préparez-vous à entrer dans l'histoire de Dagger One !
+Vous êtes prêt pour le prochain tournoi ? Inscrivez-vous dès maintenant et montrez ce dont vous êtes capable !
