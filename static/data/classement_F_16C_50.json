@@ -23,6 +23,17 @@
 	},
 	{
 		"Rang": 3,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "02 min 06.830",
+		"Temps intermédiaire1 (s)": "26.39",
+		"Temps intermédiaire2 (s)": "94.99",
+		"Temps intermédiaire3 (s)": "126.91",
+		"Temps intermédiaire4 (s)": "172.42",
+		"Temps intermédiaire5 (s)": "196.74",
+		"Bonus temps (s)": "98"
+	},
+	{
+		"Rang": 4,
 		"Nom du joueur": "Darkblue",
 		"Temps": "02 min 06.880",
 		"Temps intermédiaire1 (s)": "26.62",
@@ -31,17 +42,6 @@
 		"Temps intermédiaire4 (s)": "185.97",
 		"Temps intermédiaire5 (s)": "208.49",
 		"Bonus temps (s)": "111"
-	},
-	{
-		"Rang": 4,
-		"Nom du joueur": "Fresco 1-4 | Darkblue",
-		"Temps": "02 min 20.110",
-		"Temps intermédiaire1 (s)": "26.51",
-		"Temps intermédiaire2 (s)": "95.4",
-		"Temps intermédiaire3 (s)": "126.62",
-		"Temps intermédiaire4 (s)": "171.79",
-		"Temps intermédiaire5 (s)": "196.1",
-		"Bonus temps (s)": "84"
 	},
 	{
 		"Rang": 5,
