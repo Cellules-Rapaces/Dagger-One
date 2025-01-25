@@ -23,7 +23,7 @@
 	},
 	{
 		"Rang": 3,
-		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Nom du joueur": "Darkblue",
 		"Temps": "02 min 06.830",
 		"Temps intermédiaire1 (s)": "26.39",
 		"Temps intermédiaire2 (s)": "94.99",
@@ -34,17 +34,6 @@
 	},
 	{
 		"Rang": 4,
-		"Nom du joueur": "Darkblue",
-		"Temps": "02 min 06.880",
-		"Temps intermédiaire1 (s)": "26.62",
-		"Temps intermédiaire2 (s)": "99.6",
-		"Temps intermédiaire3 (s)": "132.4",
-		"Temps intermédiaire4 (s)": "185.97",
-		"Temps intermédiaire5 (s)": "208.49",
-		"Bonus temps (s)": "111"
-	},
-	{
-		"Rang": 5,
 		"Nom du joueur": "Noz",
 		"Temps": "02 min 52.590",
 		"Temps intermédiaire1 (s)": "26.85",
@@ -55,7 +44,7 @@
 		"Bonus temps (s)": "67"
 	},
 	{
-		"Rang": 6,
+		"Rang": 5,
 		"Nom du joueur": "Mako",
 		"Temps": "02 min 53.360",
 		"Temps intermédiaire1 (s)": "26.84",
@@ -66,7 +55,7 @@
 		"Bonus temps (s)": "57"
 	},
 	{
-		"Rang": 7,
+		"Rang": 6,
 		"Nom du joueur": "FaKitZ",
 		"Temps": "02 min 57.630",
 		"Temps intermédiaire1 (s)": "26.61",
@@ -77,7 +66,7 @@
 		"Bonus temps (s)": "70"
 	},
 	{
-		"Rang": 8,
+		"Rang": 7,
 		"Nom du joueur": "SPiiTCH",
 		"Temps": "03 min 08.280",
 		"Temps intermédiaire1 (s)": "26.86",
@@ -88,7 +77,7 @@
 		"Bonus temps (s)": "57"
 	},
 	{
-		"Rang": 9,
+		"Rang": 8,
 		"Nom du joueur": "Valta",
 		"Temps": "03 min 13.790",
 		"Temps intermédiaire1 (s)": "27.28",

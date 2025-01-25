@@ -1,7 +1,7 @@
 [
 	{
 		"Rang": 1,
-		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Nom du joueur": "Darkblue",
 		"Temps": "01 min 47.440",
 		"Temps intermédiaire1 (s)": "27.24",
 		"Temps intermédiaire2 (s)": "101.1",
@@ -23,17 +23,6 @@
 	},
 	{
 		"Rang": 3,
-		"Nom du joueur": "Darkblue",
-		"Temps": "02 min 01.470",
-		"Temps intermédiaire1 (s)": "27.13",
-		"Temps intermédiaire2 (s)": "101.15",
-		"Temps intermédiaire3 (s)": "135.2",
-		"Temps intermédiaire4 (s)": "194.45",
-		"Temps intermédiaire5 (s)": "218.73",
-		"Bonus temps (s)": "130"
-	},
-	{
-		"Rang": 4,
 		"Nom du joueur": "Psycho",
 		"Temps": "02 min 53.450",
 		"Temps intermédiaire1 (s)": "28.94",
@@ -44,7 +33,7 @@
 		"Bonus temps (s)": "98"
 	},
 	{
-		"Rang": 5,
+		"Rang": 4,
 		"Nom du joueur": "Mako",
 		"Temps": "02 min 53.480",
 		"Temps intermédiaire1 (s)": "28.11",
@@ -55,7 +44,7 @@
 		"Bonus temps (s)": "77"
 	},
 	{
-		"Rang": 6,
+		"Rang": 5,
 		"Nom du joueur": "Virus",
 		"Temps": "02 min 58.760",
 		"Temps intermédiaire1 (s)": "27.95",
@@ -66,7 +55,7 @@
 		"Bonus temps (s)": "82"
 	},
 	{
-		"Rang": 7,
+		"Rang": 6,
 		"Nom du joueur": "Nyltii",
 		"Temps": "03 min 06.690",
 		"Temps intermédiaire1 (s)": "27.55",
@@ -77,7 +66,7 @@
 		"Bonus temps (s)": "77"
 	},
 	{
-		"Rang": 8,
+		"Rang": 7,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "03 min 10.630",
 		"Temps intermédiaire1 (s)": "30.49",
@@ -88,7 +77,7 @@
 		"Bonus temps (s)": "76"
 	},
 	{
-		"Rang": 9,
+		"Rang": 8,
 		"Nom du joueur": "Madmat",
 		"Temps": "03 min 11.550",
 		"Temps intermédiaire1 (s)": "27.44",
@@ -99,7 +88,7 @@
 		"Bonus temps (s)": "60"
 	},
 	{
-		"Rang": 10,
+		"Rang": 9,
 		"Nom du joueur": "Zanck'",
 		"Temps": "03 min 20.830",
 		"Temps intermédiaire1 (s)": "27.93",
@@ -110,7 +99,7 @@
 		"Bonus temps (s)": "62"
 	},
 	{
-		"Rang": 11,
+		"Rang": 10,
 		"Nom du joueur": "R2D2",
 		"Temps": "03 min 48.620",
 		"Temps intermédiaire1 (s)": "27.41",
@@ -121,7 +110,7 @@
 		"Bonus temps (s)": "52"
 	},
 	{
-		"Rang": 12,
+		"Rang": 11,
 		"Nom du joueur": "Noz",
 		"Temps": "03 min 50.630",
 		"Temps intermédiaire1 (s)": "26.77",
@@ -132,7 +121,7 @@
 		"Bonus temps (s)": "47"
 	},
 	{
-		"Rang": 13,
+		"Rang": 12,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 52.420",
 		"Temps intermédiaire1 (s)": "27.26",
@@ -143,7 +132,7 @@
 		"Bonus temps (s)": "75"
 	},
 	{
-		"Rang": 14,
+		"Rang": 13,
 		"Nom du joueur": "Patpat",
 		"Temps": "03 min 56.170",
 		"Temps intermédiaire1 (s)": "28.02",
@@ -154,7 +143,7 @@
 		"Bonus temps (s)": "37"
 	},
 	{
-		"Rang": 15,
+		"Rang": 14,
 		"Nom du joueur": "FaKitZ",
 		"Temps": "03 min 57.270",
 		"Temps intermédiaire1 (s)": "27.2",
@@ -165,7 +154,7 @@
 		"Bonus temps (s)": "31"
 	},
 	{
-		"Rang": 16,
+		"Rang": 15,
 		"Nom du joueur": "Hot Kebab",
 		"Temps": "04 min 22.220",
 		"Temps intermédiaire1 (s)": "29.24",
@@ -176,7 +165,7 @@
 		"Bonus temps (s)": "24"
 	},
 	{
-		"Rang": 17,
+		"Rang": 16,
 		"Nom du joueur": "gooner",
 		"Temps": "04 min 41.490",
 		"Temps intermédiaire1 (s)": "30",
