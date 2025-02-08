@@ -1,7 +1,7 @@
 [
 	{
 		"Rang": 1,
-		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Nom du joueur": "Darkblue",
 		"Temps": "02 min 37.930",
 		"Temps intermédiaire1 (s)": "27.49",
 		"Temps intermédiaire2 (s)": "106.5",
@@ -12,17 +12,6 @@
 	},
 	{
 		"Rang": 2,
-		"Nom du joueur": "Darkblue",
-		"Temps": "02 min 51.570",
-		"Temps intermédiaire1 (s)": "27.59",
-		"Temps intermédiaire2 (s)": "109.52",
-		"Temps intermédiaire3 (s)": "146.79",
-		"Temps intermédiaire4 (s)": "203.42",
-		"Temps intermédiaire5 (s)": "231.59",
-		"Bonus temps (s)": "93"
-	},
-	{
-		"Rang": 3,
 		"Nom du joueur": "CoubyStark",
 		"Temps": "03 min 15.270",
 		"Temps intermédiaire1 (s)": "26.94",
@@ -33,7 +22,7 @@
 		"Bonus temps (s)": "63"
 	},
 	{
-		"Rang": 4,
+		"Rang": 3,
 		"Nom du joueur": "OuiOui",
 		"Temps": "03 min 43.290",
 		"Temps intermédiaire1 (s)": "27.65",
@@ -44,7 +33,7 @@
 		"Bonus temps (s)": "51"
 	},
 	{
-		"Rang": 5,
+		"Rang": 4,
 		"Nom du joueur": "VALTA",
 		"Temps": "03 min 43.290",
 		"Temps intermédiaire1 (s)": "28.82",
@@ -55,7 +44,7 @@
 		"Bonus temps (s)": "61"
 	},
 	{
-		"Rang": 6,
+		"Rang": 5,
 		"Nom du joueur": "Plaiskool",
 		"Temps": "03 min 44.370",
 		"Temps intermédiaire1 (s)": "28.3",
@@ -66,7 +55,7 @@
 		"Bonus temps (s)": "47"
 	},
 	{
-		"Rang": 7,
+		"Rang": 6,
 		"Nom du joueur": "Darzzake",
 		"Temps": "04 min 21.820",
 		"Temps intermédiaire1 (s)": "27.24",
@@ -77,7 +66,7 @@
 		"Bonus temps (s)": "37"
 	},
 	{
-		"Rang": 8,
+		"Rang": 7,
 		"Nom du joueur": "Kerboul",
 		"Temps": "04 min 33.500",
 		"Temps intermédiaire1 (s)": "30.64",
