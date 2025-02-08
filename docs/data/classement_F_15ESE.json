@@ -1,6 +1,17 @@
 [
 	{
 		"Rang": 1,
+		"Nom du joueur": "Fresco 1-4 | Darkblue",
+		"Temps": "02 min 47.700",
+		"Temps intermédiaire1 (s)": "26.55",
+		"Temps intermédiaire2 (s)": "96.95",
+		"Temps intermédiaire3 (s)": "131.23",
+		"Temps intermédiaire4 (s)": "183.71",
+		"Temps intermédiaire5 (s)": "207.74",
+		"Bonus temps (s)": "72"
+	},
+	{
+		"Rang": 2,
 		"Nom du joueur": "Darkblue",
 		"Temps": "02 min 49.660",
 		"Temps intermédiaire1 (s)": "25.65",
@@ -11,7 +22,7 @@
 		"Bonus temps (s)": "77"
 	},
 	{
-		"Rang": 2,
+		"Rang": 3,
 		"Nom du joueur": "Virus",
 		"Temps": "03 min 14.760",
 		"Temps intermédiaire1 (s)": "25.79",
@@ -22,7 +33,7 @@
 		"Bonus temps (s)": "53"
 	},
 	{
-		"Rang": 3,
+		"Rang": 4,
 		"Nom du joueur": "Hot Kebab",
 		"Temps": "04 min 59.490",
 		"Temps intermédiaire1 (s)": "31.49",
