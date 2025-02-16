@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-# Date du prochain Tournoi : **📅mercredi 19 février 2025 à partir de 21h00**
+# Date du prochain Tournoi : **📅mercredi 26 mars 2025 à partir de 21h00**
 
 ## 🗒️Inscriptions
 Afin de proposer un tournoi et un stream joué dans un temps adapté, le bracket de départ est limité à **8 places**.
